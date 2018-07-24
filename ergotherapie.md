@@ -2,13 +2,13 @@
 title: "Ergotherapie"
 ---
 
-## Was ist Ergotherapie
+## Was ist Ergotherapie? {#was-ist-ergotherapie}
 
 Ergotherapie ist die Unterstützung, Begleitung und Beratung betroffener Menschen jeden Alters und deren Angehöriger bei eingeschränkter Handlungsfähigkeit zur Verbesserung der Lebensqualität und ihrer gesellschaftlichen Teilhabe mit dem Ziel einer größtmöglichen Selbstständigkeit und Unabhängigkeit im Alltagsleben.
 
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/208910201a51d54205e19f011a45a65e393a7522/Was%20ist%20Ergotherapie-1140x641.jpg)
 
-## Philosophie unserer Praxis
+## Philosophie unserer Praxis {#philosophie-unserer-praxis}
 
 **Wir haben offene Ohren für Ihre Probleme**  
 damit Sie sich bei uns mit Ihren Bedürfnissen, Fragen und Sorgen angenommen fühlen
@@ -23,7 +23,7 @@ weshalb sich unsere Patienten bei uns wohl fühlen
 
 Zur Erzielung bestmöglicher Behandlungserfolge werden bei uns verschiedene Behandlungsmethoden kombiniert und individuell an die Situation und Bedürfnisse des Patienten angepasst. Unsere Therapeuten sind auf unterschiedlichen Gebieten spezialisiert. Dies ermöglicht einen regelmäßigen fachlichen Austausch und die Abstimmung von Therapien um eine optimale Behandlung sicher zu stellen.
 
-## Schwerpunkt Demenz
+## Schwerpunkt Demenz {#schwerpunkt-demenz}
 
 Bei Menschen mit Demenz kann die ergotherapeutische Behandlung in jedem Stadium stattfinden. Die Unterstützung der Angehörigen ist bedeutender Teil unserer Behandlung.
 
@@ -51,7 +51,7 @@ Patienten sowie deren enge Einbindung in die Therapie sind uns ein besonderes An
 - Morbus Pick
 - Vaskuläre Demenz
 
-## Schwerpunkt Neurologie
+## Schwerpunkt Neurologie {#schwerpunkt-neurologie}
 
 Bei neurologischen Erkrankungen erfolgt eine individuell angepasste Behandlung mit dem Ziel einer Verbesserung der Teilhabe im Alltag als Ergänzung zur Physiotherapie oder als alleinige Behandlung.
 
@@ -76,7 +76,7 @@ Im Mittelpunkt der der neurologisch-ergotherapeutischen Behandlung steht die Ver
 - Multiple Sklerose
 - Bei Orthopädie (Hand)
 
-## Schwerpunkt Orthopädie
+## Schwerpunkt Orthopädie {#schwerpunkt-orthopaedie}
 
 Bei Erkrankungen des Bewegungsapparates, insbesondere der Hand unterstützt die Ergotherapie die Verbesserung oder Wiedererlangung der Handlungsfähigkeit im Alltag.
 
@@ -97,7 +97,7 @@ Die orthopädisch-ergotherapeutische Behandlung zielt durch vorwiegend handlungs
 - Bei anderen rheumatischen Erkrankungen
 - Psychische Erkrankungen
 
-## Schwerpunkt Pädiatrie
+## Schwerpunkt Pädiatrie {#schwerpunkt-paediatrie}
 
 Ergotherapie für Kinder beinhaltet eine individuelle Entwicklungsförderung bei motorischen und sensorischen Problemen,
 Aufmerksamkeitsdefiziten und genetischen Syndromen unter enger Einbeziehung der Eltern oder Erziehungsberechtigten.

@@ -34,7 +34,7 @@ $red: #d3292d;
 
 // Links
 .nav-item.active {
-  > .nav-link {
+  >.nav-link {
     color: $red !important;
   }
 }
@@ -67,5 +67,23 @@ img:not(.navbar-brand-image) {
   column-count: 1;
   @media screen and (min-width: 768px) {
     column-count: 2;
+  }
+}
+
+// Heading
+.main-content {
+  & h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    &::before {
+      content: " ";
+      margin-top: -325px;
+      height: 325px;
+      visibility: hidden;
+      pointer-events: none;
+      display: block;
+    }
   }
 }
