@@ -6,14 +6,22 @@
       {% if include.behandlungsschwerpunkte %}
       <strong>Behandlungsschwerpunkte</strong>
       <ul>
-        {% for schwerpunkt in include.behandlungsschwerpunkte %}
+        {% for schwerpunkt in include.behandlungsschwerpunkte %} {% if schwerpunkt.children %}
+        <li>
+          {{ schwerpunkt.name }}
+          <ul>
+            {% for schwerpunkt in schwerpunkt.children %}
+            <li>{{ schwerpunkt }}</li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% else %}
         <li>
           {{ schwerpunkt }}
         </li>
-        {% endfor %}
+        {% endif %} {% endfor %}
       </ul>
-      {% endif %}
-      {% if include.zusatzqualifikationen %}
+      {% endif %} {% if include.zusatzqualifikationen %}
       <strong>Zusatzqualifikationen</strong>
       <ul>
         {% for qualifikation in include.zusatzqualifikationen %}
