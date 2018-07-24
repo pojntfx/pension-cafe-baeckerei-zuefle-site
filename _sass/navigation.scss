@@ -39,6 +39,15 @@ $red: #d3292d;
   }
 }
 
+a {
+  color: $red;
+  &:focus,
+  &:active,
+  &:hover {
+    color: $red;
+  }
+}
+
 // Home page
 .home__wrapper {
   min-height: calc(100vh - 300px);
