@@ -1,0 +1,32 @@
+<!-- Contact -->
+<div>
+  <h3>Kontakt</h3>
+  <dl>
+    <dt>Telefon:</dt>
+    <dd>{{ site.contact.phone }}</dd>
+    <dt>E-Mail:</dt>
+    <dd>{{ site.contact.email }}</dd>
+    <dt>Website:</dt>
+    <dd>{{ site.contact.website }}</dd>
+  </dl>
+</div>
+
+<!-- Location -->
+<div>
+  <h3>Anfahrt</h3>
+  <dl>
+    <dt>Adresse:</dt>
+    <dd>{{ site.location.address }}</dd>
+  </dl>
+  <iframe src="{{ site.location.iframe_url }}" style="border:0" allowfullscreen="" width="100%" height="260vh" frameborder="0"></iframe>
+</div>
+
+<!-- Meta -->
+<ul class="nav flex-column">
+  <li class="nav-item">
+    <a class="nav-link text-light" href="/impressum.html">Impressum</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link text-light" href="/sitemap.html">Sitemap</a>
+  </li>
+</ul>

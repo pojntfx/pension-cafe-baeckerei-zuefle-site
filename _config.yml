@@ -5,6 +5,17 @@ email: felicitas@pojtinger.com
 description: >-
   Static website for Ergotherapie Smeets-Labee
 
+# Contact
+contact:
+  phone: "06224 / 54269"
+  email: "info@ergotherapie-ssl.de"
+  website: "www.ergotherapie-ssl.de"
+
+# Location
+location:
+  address: "Waldstraße 25, 69207 Sandhausen"
+  iframe_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2599.5613404388932!2d8.652025315691521!3d49.34152317933769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4797bf3a1f8f58a7%3A0x647a4e4c2f30a3c9!2sWaldstra%C3%9Fe+25%2C+69207+Sandhausen!5e0!3m2!1sde!2sde!4v1504278794221"
+
 # Config
 baseurl: ""
 url: "https://ergotherapie-ssl.de/"
