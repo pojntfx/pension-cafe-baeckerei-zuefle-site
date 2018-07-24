@@ -1,0 +1,28 @@
+<div class="card">
+  <img class="card-img-top" src="{{ include.img_src }}" alt="Image of {{ include.name }}">
+  <div class="card-body">
+    <h5 class="card-title">{{ include.name }}</h5>
+    <p class="card-text">
+      {% if include.behandlungsschwerpunkte %}
+      <strong>Behandlungsschwerpunkte</strong>
+      <ul>
+        {% for schwerpunkt in include.behandlungsschwerpunkte %}
+        <li>
+          {{ schwerpunkt }}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if include.zusatzqualifikationen %}
+      <strong>Zusatzqualifikationen</strong>
+      <ul>
+        {% for qualifikation in include.zusatzqualifikationen %}
+        <li>
+          {{ qualifikation }}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </p>
+  </div>
+</div>
