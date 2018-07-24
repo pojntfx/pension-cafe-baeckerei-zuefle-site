@@ -1,6 +1,6 @@
 # Ergotherapie Smeets-Labee Website
 
-Static website for [ergotherapie-ssl.de](https://ergotherapie-ssl.de/).
+Static website for Ergotherapie Smeets-Labee.
 
 ## Demo
 
