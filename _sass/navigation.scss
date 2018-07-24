@@ -14,6 +14,7 @@ $red: #d3292d;
 .main-navigation {
   .navbar-brand-image {
     height: 3rem;
+    margin-left: 1rem;
     @media screen and (min-width: 1200px) {
       height: 3.5rem;
       margin-right: -63px;
@@ -30,4 +31,12 @@ $red: #d3292d;
   > .nav-link {
     color: $red !important;
   }
+}
+
+.home__wrapper {
+  min-height: calc(100vh - 300px);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
