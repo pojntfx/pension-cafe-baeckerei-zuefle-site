@@ -1,0 +1,22 @@
+# Meta
+title: Ergotherapie Smeets-Labee
+author: Felix Pojtinger
+email: felix@pojtinger.com
+description: >-
+  Static website for Ergotherapie Smeets-Labee
+
+# Config
+baseurl: ""
+url: "https://ergotherapie-ssl.de/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Plugins
+plugins:
+  - jekyll-admin
+jekyll_admin:
+  hidden_links:
+    - datafiles # We do not have any data files currently'
