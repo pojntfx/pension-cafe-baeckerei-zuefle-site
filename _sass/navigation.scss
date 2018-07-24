@@ -1,5 +1,5 @@
 $red: #d3292d;
-// Main Sidebar
+// Main sidebar
 .main-sidebar {
   background: $red;
   @media (min-width: 1200px) {
@@ -10,7 +10,7 @@ $red: #d3292d;
   }
 }
 
-// Main Navigation
+// Main navigation
 .main-navigation {
   .navbar-brand-image {
     height: 3rem;
@@ -33,10 +33,16 @@ $red: #d3292d;
   }
 }
 
+// Home page
 .home__wrapper {
   min-height: calc(100vh - 300px);
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+// Images
+img:not(.navbar-brand-image) {
+  max-width: 100%;
 }
