@@ -5,9 +5,13 @@
     <dt>Telefon:</dt>
     <dd>{{ site.contact.phone }}</dd>
     <dt>E-Mail:</dt>
-    <dd>{{ site.contact.email }}</dd>
+    <dd>
+      <a href="mailto:{{ site.contact.email }}" class="text-light">{{ site.contact.email }}</a>
+    </dd>
     <dt>Website:</dt>
-    <dd>{{ site.contact.website }}</dd>
+    <dd>
+      <a href="https://{{ site.contact.website }}" class="text-light">{{ site.contact.website }}</a>
+    </dd>
   </dl>
 </div>
 
