@@ -14,16 +14,16 @@
 <body>
   <div class="container-fluid">
     <div class="row">
-      <div class="col-12 col-xl-8 px-0">
+      <div class="col-12 col-xl-9">
         <!-- Main Navigation -->
-        {% include main_navigation.html title="Logo"%}
+        {% include main_navigation.html %}
         <!-- Content -->
-        <div class="container">
+        <div class="container p-5">
           {{ content }}
         </div>
       </div>
-      <div class="col-12 col-xl-4 main-sidebar text-light">
-        <div class="sticky-top">
+      <div class="col-12 col-xl-3 main-sidebar text-light p-5">
+        <div class="sticky-top mt-xl-5">
           <!-- Main Sidebar -->
           {% include main_sidebar.html %}
         </div>

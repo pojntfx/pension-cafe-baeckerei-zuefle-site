@@ -1,4 +1,5 @@
 $red: #d3292d;
+// Main Sidebar
 .main-sidebar {
   background: $red;
   @media (min-width: 1200px) {
@@ -6,5 +7,27 @@ $red: #d3292d;
   }
   & .btn--make_appointment {
     margin-bottom: 1.5rem;
+  }
+}
+
+// Main Navigation
+.main-navigation {
+  .navbar-brand-image {
+    height: 3rem;
+    @media screen and (min-width: 1200px) {
+      height: 3.5rem;
+      margin-right: -63px;
+    }
+    @media screen and (min-width: 1360px) {
+      height: 5rem;
+      margin-right: -76px;
+    }
+  }
+}
+
+// Links
+.nav-item.active {
+  > .nav-link {
+    color: $red !important;
   }
 }
