@@ -28,6 +28,7 @@ defaults:
 # Plugins
 plugins:
   - jekyll-admin
+  - jekyll-sitemap
 jekyll_admin:
   hidden_links:
     - posts # We don't have any posts currently
