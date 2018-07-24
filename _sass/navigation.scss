@@ -4,4 +4,7 @@ $red: #d3292d;
   @media (min-width: 1200px) {
     min-height: 100vh;
   }
+  & .btn--make_appointment {
+    margin-bottom: 1.5rem;
+  }
 }
