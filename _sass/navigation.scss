@@ -1,0 +1,7 @@
+$red: #d3292d;
+.main-sidebar {
+  background: $red;
+  @media (min-width: 1200px) {
+    min-height: 100vh;
+  }
+}
