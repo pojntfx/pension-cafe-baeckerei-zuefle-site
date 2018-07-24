@@ -55,13 +55,8 @@ fördern.
 
 ## Bilder
 
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/6513626690584e26ce364f8da488b505e20a1453/Behandlungsraeume-600x800.jpg)
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/0ac3e121b709af9f9aeac1266bf7646e10e8de16/Behandlungsraeume.jpg)
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/7baa97bc3781c2c11f5223963ff6f3bd3bd6424c/Behandlungsraum-800x600.jpg)
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/21aed5b7a3ac7077849b2065123724e38eddb82a/Behandlungsraum.jpg)
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/ed01c037216db3673c34b0ce7c7599173fb7ea1f/Praxisraeume-800x600.jpg)
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/7b016b31c370cab25022388105395159dabc300b/Praxisraeume.jpg)
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/e30d0a2cb82e273013fb65326ed9144de5e7fead/Rutsche-600x800.jpg)
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/ed07513b439263ac4ebd11bbd6dc43be791b0ebc/Rutsche.jpg)
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/9a6430e3d30631508fd0e8c1b89a41d8c43e2822/Tisch-800x600.jpg)
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/eaf6665970f84bb6470b4640776d971cfecaaef6/Tisch.jpg)
