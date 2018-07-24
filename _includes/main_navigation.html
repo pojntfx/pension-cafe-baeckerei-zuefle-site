@@ -4,37 +4,37 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">
-      <li class="nav-item active">
+      <li class="nav-item {% if page.url == '/' %} active {% endif %}">
         <a class="nav-link" href="/">Home</a>
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="navbarDropdownMenuLink" role="button">
+      <li class="nav-item {% if page.url == '/ergotherapie.html' %} active {% endif %} dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/ergotherapie.html" id="navbarDropdownMenuLink" role="button">
           Ergotherapie
         </a>
         <div class="dropdown-menu">
-          <a class="dropdown-item" href="#">Was ist Ergotherapie?</a>
-          <a class="dropdown-item" href="#">Philosophie unserer Praxis</a>
-          <a class="dropdown-item" href="#">Schwerpunkt Demenz</a>
-          <a class="dropdown-item" href="#">Schwerpunkt Neurologie</a>
-          <a class="dropdown-item" href="#">Schwerpunkt Orthopädie</a>
-          <a class="dropdown-item" href="#">Schwerpunkt Pädiatrie</a>
+          <a class="dropdown-item" href="/ergotherapie#">Was ist Ergotherapie?</a>
+          <a class="dropdown-item" href="/ergotherapie#">Philosophie unserer Praxis</a>
+          <a class="dropdown-item" href="/ergotherapie#">Schwerpunkt Demenz</a>
+          <a class="dropdown-item" href="/ergotherapie#">Schwerpunkt Neurologie</a>
+          <a class="dropdown-item" href="/ergotherapie#">Schwerpunkt Orthopädie</a>
+          <a class="dropdown-item" href="/ergotherapie#">Schwerpunkt Pädiatrie</a>
         </div>
       </li>
-      <li class="nav-item dropdown">
+      <li class="nav-item {% if page.url == '/unsere-praxis.html' %} active {% endif %} dropdown">
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="navbarDropdownMenuLink" role="button">
           Unsere Praxis
         </a>
         <div class="dropdown-menu">
-          <a class="dropdown-item" href="#">Davon profitieren unsere Patienten</a>
-          <a class="dropdown-item" href="#">Behandlungen in der Praxis</a>
-          <a class="dropdown-item" href="#">Qualifikationen</a>
-          <a class="dropdown-item" href="#">Bilder</a>
+          <a class="dropdown-item" href="/unsere-praxis#">Davon profitieren unsere Patienten</a>
+          <a class="dropdown-item" href="/unsere-praxis#">Behandlungen in der Praxis</a>
+          <a class="dropdown-item" href="/unsere-praxis#">Qualifikationen</a>
+          <a class="dropdown-item" href="/unsere-praxis#">Bilder</a>
         </div>
       </li>
-      <li class="nav-item">
+      <li class="nav-item {% if page.url == '/team.html' %} active {% endif %}">
         <a class="nav-link" href="/">Team</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item {% if page.url == '/informationen-fuer-patienten.html' %} active {% endif %}">
         <a class="nav-link" href="/">Informationen für Patienten</a>
       </li>
     </ul>
