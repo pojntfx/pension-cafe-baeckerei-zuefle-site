@@ -1,9 +1,9 @@
 # Meta
-title: Ergotherapie Smeets-Labee
-author: Felicitas Pojtinger
-email: felicitas@pojtinger.com
+title: "Ergotherapie Smeets-Labee"
+author: "Felicitas Pojtinger"
+email: "felicitas@pojtinger.com"
 description: >-
-  Static website for Ergotherapie Smeets-Labee
+ " Static website for Ergotherapie Smeets-Labee"
 
 # Contact
 contact:
@@ -18,7 +18,7 @@ location:
 
 # Config
 baseurl: ""
-url: "https://ergotherapie-ssl.de/"
+url: "https://www.ergotherapie-ssl.de/"
 defaults:
   - scope:
       path: ""
@@ -27,8 +27,9 @@ defaults:
 
 # Plugins
 plugins:
-  - jekyll-admin
-  - jekyll-sitemap
+  - "jekyll-admin"
+  - "jekyll-sitemap"
+  - "jekyll-last-modified-at"
 jekyll_admin:
   hidden_links:
-    - posts # We don't have any posts currently
+    - "posts" # We don't have any posts currently
