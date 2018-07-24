@@ -4,9 +4,15 @@ title: "Ergotherapie"
 
 ## Was ist Ergotherapie? {#was-ist-ergotherapie}
 
+{% include left-side.html %}
+
 Ergotherapie ist die Unterstützung, Begleitung und Beratung betroffener Menschen jeden Alters und deren Angehöriger bei eingeschränkter Handlungsfähigkeit zur Verbesserung der Lebensqualität und ihrer gesellschaftlichen Teilhabe mit dem Ziel einer größtmöglichen Selbstständigkeit und Unabhängigkeit im Alltagsleben.
 
+{% include center.html %}
+
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/208910201a51d54205e19f011a45a65e393a7522/Was%20ist%20Ergotherapie-1140x641.jpg)
+
+{% include right-side.html %}
 
 ## Philosophie unserer Praxis {#philosophie-unserer-praxis}
 
@@ -19,9 +25,15 @@ und wählen anhand unserer umfassenden Qualifikationen die entsprechende Behandl
 **Wir haben weite Herzen mit ansteckender Lebensfreude**  
 weshalb sich unsere Patienten bei uns wohl fühlen
 
+{% include left-side.html %}
+
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/7cf127650c4d515d85215f5b9464f2c1d590e73b/Philosophie%20unserer%20Praxis-1140x641.jpg)
 
+{% include center.html %}
+
 Zur Erzielung bestmöglicher Behandlungserfolge werden bei uns verschiedene Behandlungsmethoden kombiniert und individuell an die Situation und Bedürfnisse des Patienten angepasst. Unsere Therapeuten sind auf unterschiedlichen Gebieten spezialisiert. Dies ermöglicht einen regelmäßigen fachlichen Austausch und die Abstimmung von Therapien um eine optimale Behandlung sicher zu stellen.
+
+{% include right-side.html %}
 
 ## Schwerpunkt Demenz {#schwerpunkt-demenz}
 
@@ -29,11 +41,17 @@ Bei Menschen mit Demenz kann die ergotherapeutische Behandlung in jedem Stadium 
 
 ### Indikation von Ergotherapie bei Demenz
 
+{% include left-side.html %}
+
 Demenz ist eine fortschreitende Krankheit. Ziel der Ergotherapie ist die Behandlung von Symptomen sowie das Erreichen einer Verlangsamung
 des Fortschreitens der Krankheit. Im Mittelpunkt stehen hierbei Hilfen zur Bewältigung des Alltags und eine Verbesserung der Lebensqualität für den Patienten und dessen Angehörige. Die Sensibilisierung der Angehörigen zu einem besseren Verständnis für die Krankheit und den
 Patienten sowie deren enge Einbindung in die Therapie sind uns ein besonderes Anliegen.
 
+{% include center.html %}
+
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/0d2a2a9d873c36693a8d253b431a018b60f4d99c/Demenz%201-1140x641.jpg)
+
+{% include right-side.html %}
 
 ### Behandlungsansätze
 
@@ -55,10 +73,17 @@ Patienten sowie deren enge Einbindung in die Therapie sind uns ein besonderes An
 
 Bei neurologischen Erkrankungen erfolgt eine individuell angepasste Behandlung mit dem Ziel einer Verbesserung der Teilhabe im Alltag als Ergänzung zur Physiotherapie oder als alleinige Behandlung.
 
-Indikation von Ergotherapie bei Neurologie
+### Indikation von Ergotherapie bei Neurologie
+
+{% include left-side.html %}
+
 Im Mittelpunkt der der neurologisch-ergotherapeutischen Behandlung steht die Verbesserung der Handlungsfähigkeit im Alltag durch gezieltes Training von Situationen und Herausforderungen des täglichen Lebens anhand eines betätigungsorientierten Therapieansatzes
 
+{% include center.html %}
+
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/27492f43eb71a64610d94e8f2c47bb237091d034/Neurologie-768x458.jpg)
+
+{% include right-side.html %}
 
 ### Behandlungsansätze
 
@@ -102,10 +127,17 @@ Die orthopädisch-ergotherapeutische Behandlung zielt durch vorwiegend handlungs
 Ergotherapie für Kinder beinhaltet eine individuelle Entwicklungsförderung bei motorischen und sensorischen Problemen,
 Aufmerksamkeitsdefiziten und genetischen Syndromen unter enger Einbeziehung der Eltern oder Erziehungsberechtigten.
 
-Indikation von Ergotherapie in der Pädiatrie
+### Indikation von Ergotherapie in der Pädiatrie
+
+{% include left-side.html %}
+
 Ziele der betätigungs- und handlungsorientierten pädiatrisch-ergotherapeutischen Behandlung sind eine Verbesserung der motorischen, sensorischen und emotionalen Voraussetzungen zum Spielen, Malen, Schreiben und Lernen der Selbstwirksamkeit und Persönlichkeitsreifung der Kommunikationsfähigkeit des konstruktiven Umgangs mit Aufgaben sowie eine Steigerung von Integration, Selbstvertrauen und Selbstständigkeit der Patienten.
 
+{% include center.html %}
+
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/bc30937e94920f496f1d387a24e91be12e69d17e/Paediatrie-1140x855.jpg)
+
+{% include right-side.html %}
 
 ### Indikationen
 
