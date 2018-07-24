@@ -24,6 +24,12 @@ $red: #d3292d;
       margin-right: -76px;
     }
   }
+  .dropdown-item {
+    &:active,
+    &:focus {
+      background-color: $red;
+    }
+  }
 }
 
 // Links
@@ -45,4 +51,12 @@ $red: #d3292d;
 // Images
 img:not(.navbar-brand-image) {
   max-width: 100%;
+}
+
+// Team page
+.card-columns {
+  column-count: 1;
+  @media screen and (min-width: 768px) {
+    column-count: 2;
+  }
 }

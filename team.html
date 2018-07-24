@@ -1,0 +1,18 @@
+---
+title: "Team"
+---
+
+<!-- Short introduction -->
+<p>
+  <em>
+    Mit offenen Ohren, berufserfahrenen Händen, weiten Herzen und großer Freude an unserer Arbeit tut unser qualifiziertes und
+    motiviertes Team das Bestmögliche für den Behandlungserfolg und die Zufriedenheit unserer Patienten.
+  </em>
+</p>
+
+<!-- Information about the team members -->
+<div class="card-columns">
+  {% for team_member in site.data.team_members %}
+  {% include team_member_card.html name=team_member.name behandlungsschwerpunkte=team_member.behandlungsschwerpunkte img_src=team_member.img_src zusatzqualifikationen=team_member.zusatzqualifikationen %}
+  {% endfor %}
+</div>

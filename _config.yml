@@ -30,5 +30,4 @@ plugins:
   - jekyll-admin
 jekyll_admin:
   hidden_links:
-    - datafiles # We do not have any data files currently
-    - posts # We don not have any posts currently
+    - posts # We don't have any posts currently

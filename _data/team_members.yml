@@ -1,0 +1,27 @@
+- name: "Lizette Labee"
+  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/e381e5818fb1d37764005068754489e9755413f7/Lizette%20Labee-756x756.jpg"
+  behandlungsschwerpunkte:
+    - "Behandlung von schwerstmehrfach behinderten Menschen in den Werkstätten der Lebenshilfe"
+    - "Neurophysiologische Behandlung nach Bobath nach Schlaganfall und anderen neurologischen Erkrankungen"
+    - "Behandlung von entwicklungsverzögerten Kindern"
+    - "Behandlung von Kindern mit Aufmerksamkeitsdefiziten"
+  zusatzqualifikationen:
+    - "Behandlung nach dem Bobath-Konzept"
+    - "Behandlung nach dem Affolter-Konzept"
+    - "Behandlung nach dem Perfetti-Konzept"
+    - "Medi-Akupress®-Grundkurs"
+    - "Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln"
+    - "Schulkinder mit Aufmerksamkeitsstörungen (Diagnostik/Training/Beratung)"
+- name: "Anke Smeets"
+  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/29ca56e22e40f37a8fa7c95882438fa729a5f451/Anke%20Smeets-756x756.jpg"
+  behandlungsschwerpunkte:
+    - "Behandlung von Menschen mit Demenz in jedem Stadium"
+    - "Behandlung umschriebener Entwicklungsstörungen motorischer Funktionen (UEMF)"
+    - "Behandlung von Kindern mit Muskelhypotonie"
+    - "Behandlung von Konzentrations- und Aufmerksamkeitsstörungen"
+    - "Graphomotorisches Training"
+  zusatzqualifikationen:
+    - "Fachergotherapeutin für Demenz"
+    - "Testung groß-und feinmotorischer Koordination (Movement ABC-2)"
+    - "Konzentrationsstörungen im Vorschul- und Schulalter"
+    - "Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln"
