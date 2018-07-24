@@ -2,7 +2,7 @@
 title: "Unsere Praxis"
 ---
 
-## Davon profitieren unsere Patienten
+## Davon profitieren unsere Patienten {#davon-profitieren-unsere-patienten}
 
 - Unserem Team
 - Zusammen über 100 Jahren Berufserfahrung
@@ -14,7 +14,7 @@ title: "Unsere Praxis"
 - Engem Austausch mit der Wissenschaft
 - Großzügigen Praxisräumen
 
-## Behandlungen in der Praxis
+## Behandlungen in der Praxis {#behandlungen-in-der-praxis}
 
 Um eine optimale Behandlung unserer Patienten sicher zu stellen stehen in unserer Praxis drei unterschiedliche Behandlungsräume, die an die jeweiligen Behandlungserfordernisse angepasst sind, zur Verfügung:
 
@@ -27,7 +27,7 @@ Um eine optimale Behandlung unserer Patienten sicher zu stellen stehen in unsere
 
 Unseren Patienten und Angehörigen steht auch eine kleine Bibliothek mit Fachliteratur zur Verfügung.
 
-## Qualifikationen
+## Qualifikationen {#qualifikationen}
 
 Zur Erzielung bestmöglicher Behandlungserfolge werden bei uns verschiedene Behandlungsmethoden kombiniert und individuell an die  
 Situation und Bedürfnisse des Patienten angepasst. Unser Therapeuten sind auf unterschiedlichen Gebieten spezialisiert. Dies ermöglicht einen  
@@ -53,7 +53,7 @@ Videobasierte Beratungsmethode zur Unterstützung der Eltern in Fragen der Erzie
 förderlicher Interaktion mit dem Kind können Erwachsene unterstützt werden ihre eigenen Möglichkeiten zu nutzen um die Entwicklung des Kindes zu  
 fördern.
 
-## Bilder
+## Bilder {#bilder}
 
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/0ac3e121b709af9f9aeac1266bf7646e10e8de16/Behandlungsraeume.jpg)
 ![Image](http://ergotherapie-ssl.de/_Resources/Persistent/21aed5b7a3ac7077849b2065123724e38eddb82a/Behandlungsraum.jpg)
