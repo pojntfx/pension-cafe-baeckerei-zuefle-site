@@ -34,7 +34,7 @@ $red: #d3292d;
 
 // Links
 .nav-item.active {
-  >.nav-link {
+  > .nav-link {
     color: $red !important;
   }
 }
@@ -84,6 +84,11 @@ img:not(.navbar-brand-image) {
       visibility: hidden;
       pointer-events: none;
       display: block;
+    }
+  }
+  & h2:not(:last-child) {
+    &:not(:first-child) {
+      margin-top: 3rem;
     }
   }
 }
