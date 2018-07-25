@@ -10,4 +10,7 @@
   <meta name="theme-color" content="#d3292d">
   <link href="/css/index.css" rel="stylesheet">
   <link rel="manifest" href="/manifest.json">
+  {% if include.is_home %}
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {% endif %}
 </head>
