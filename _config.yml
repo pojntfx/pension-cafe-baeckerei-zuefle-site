@@ -32,7 +32,11 @@ defaults:
       path: ""
     values:
       layout: "default"
-
+collections:
+  pages:
+    output: true
+    permalink: /:path.html
+    
 # Plugins
 plugins:
   - "jekyll-admin"
