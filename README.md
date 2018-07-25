@@ -1,6 +1,10 @@
 # Ergotherapie Smeets-Labee Website
 
-Static website for Ergotherapie Smeets-Labee. Supports offline usage and more PWA functionality using a service worker to achieve it's 98+ lighthouse score.
+Static website for Ergotherapie Smeets-Labee. Supports offline usage and more PWA functionality using a service worker to achieve it's **100** lighthouse score. Uses [Netlify CMS](https://www.netlifycms.org/) for production and [Jekyll Admin](https://jekyll.github.io/jekyll-admin/) for local/"decentralized" editing.
+
+![Home page screenshot](/img/home_page_screenshot.png)
+
+![100 Lighthouse audit score screenshot](/img/lighthouse_score.png)
 
 ## Demo
 
@@ -27,7 +31,8 @@ bundle exec jekyll serve
 # Build and serve development version on http://your-ip:4000/
 bundle exec jekyll serve --host your-ip
 
-# An admin interface (jekyll-admin) is available at http://localhost:4000/admin
+# When running this site locally, an admin interface (jekyll-admin) is available at http://localhost:4000/admin
+# If you have deployed this site on Netlify, /admin will redirect you to Netlify CMS
 ```
 
 ## Screenshots
@@ -40,7 +45,7 @@ bundle exec jekyll serve --host your-ip
 
 ## Deployment
 
-> TODO: Add deployment
+We use [GitLab CI/CD](https://about.gitlab.com/features/gitlab-ci-cd/), [GitLab Pages](https://about.gitlab.com/features/pages/) and [Netlify](https://www.netlify.com/) to automate deployment.
 
 ## License
 
