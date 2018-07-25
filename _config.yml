@@ -30,6 +30,7 @@ plugins:
   - "jekyll-admin"
   - "jekyll-sitemap"
   - "jekyll-last-modified-at"
+  - "jekyll-assets"
 jekyll_admin:
   hidden_links:
     - "posts" # We don't have any posts currently
