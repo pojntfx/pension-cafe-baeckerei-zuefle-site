@@ -1,6 +1,6 @@
 # Ergotherapie Smeets-Labee Website
 
-Static website for Ergotherapie Smeets-Labee.
+Static website for Ergotherapie Smeets-Labee. Supports offline usage and more PWA functionality using a service worker to achieve it's 98+ lighthouse score.
 
 ## Demo
 
