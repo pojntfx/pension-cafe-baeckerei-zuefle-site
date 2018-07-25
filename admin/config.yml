@@ -2,8 +2,8 @@ backend:
   name: "git-gateway"
 media_folder: "img"
 collections:
-  - name: "page"
-    label: "Page"
+  - name: "pages"
+    label: "Pages"
     folder: "_pages"
     create: false
     slug: ".md"
@@ -11,3 +11,18 @@ collections:
       - {label: "Layout", name: "layout", widget: "select", options: ["default", "home"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+  - name: "team_members"
+    label: "Team Members"
+    files:
+      - label: "Team Members"
+        name: "team_members"
+        file: "_data/team_members.yml"
+        fields:
+          - name: "team_members"
+            label: "Team Members"
+            widget: "list"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: Image, name: img_src, widget: image}
+              - {label: Behandlungsschwerpunkte, name: behandlungsschwerpunkte, widget: string}
+              - {label: Zusatzqualifikationen, name: zusatzqualifikationen, widget: string}
