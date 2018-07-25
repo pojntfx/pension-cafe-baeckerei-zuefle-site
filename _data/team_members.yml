@@ -1,5 +1,5 @@
 - name: "Lizette Labee"
-  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/e381e5818fb1d37764005068754489e9755413f7/Lizette%20Labee-756x756.jpg"
+  img_src: "/img/Lizette%20Labee-756x756.jpg"
   behandlungsschwerpunkte:
     - "Behandlung von schwerstmehrfach behinderten Menschen in den Werkstätten der Lebenshilfe"
     - "Neurophysiologische Behandlung nach Bobath nach Schlaganfall und anderen neurologischen Erkrankungen"
@@ -13,7 +13,7 @@
     - "Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln"
     - "Schulkinder mit Aufmerksamkeitsstörungen (Diagnostik/Training/Beratung)"
 - name: "Anke Smeets"
-  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/29ca56e22e40f37a8fa7c95882438fa729a5f451/Anke%20Smeets-756x756.jpg"
+  img_src: "/img/Anke%20Smeets-756x756.jpg"
   behandlungsschwerpunkte:
     - "Behandlung von Menschen mit Demenz in jedem Stadium"
     - "Behandlung umschriebener Entwicklungsstörungen motorischer Funktionen (UEMF)"
@@ -26,7 +26,7 @@
     - "Konzentrationsstörungen im Vorschul- und Schulalter"
     - "Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln"
 - name: "Anita Kretschmer"
-  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/c4de85f18c53218f057eb1fe011f4a4169eccba5/Anita%20Kretschmer-756x756.jpg"
+  img_src: "/img/Anita%20Kretschmer-756x756.jpg"
   behandlungsschwerpunkte:
     - "Neurophysiologische Behandlung nach Bobath bei Schlaganfall, Morbus Parkinson, Schädelhirntrauma, Koma u.a."
     - "Medizinisches Tapen (als Privatleistung)"
@@ -40,7 +40,7 @@
     - "F.O.T.T."
     - "Marte Meo"
 - name: "Ina Kristin Pöckel"
-  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/8a54e4596eb083840fb41938e073a79846a7487e/Ina%20Poeckel-756x756.jpg"
+  img_src: "/img/Ina%20Poeckel-756x756.jpg"
   behandlungsschwerpunkte:
     - "Behandlung von schwerstmehrfachbehinderten Menschen In den Werkstätten der Lebenshilfe"
     - name: "Behandlung von Kindern bei:"
@@ -54,7 +54,7 @@
     - "Marte Meo Practitioner"
     - "Handrehabilitation"
 - name: "Julia Elsässer"
-  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/783cfa25fb7b14140d1806318db3f3c01866706c/Julia%20Elsaesser-756x756.jpg"
+  img_src: "/img/Julia%20Elsaesser-756x756.jpg"
   behandlungsschwerpunkte:
     - "Behandlung von Menschen mit Demenz und anderen Erkrankungen die u.a. die Gedächtnisleistung beeinflussen"
     - "Behandlung von psychischen Erkrankungen (z.B. Depression)"
@@ -73,22 +73,8 @@
     - "ADHS in der therapeutischen Praxis"
     - "Entspannungstechniken für Kinder"
     - "Muskelhypotonie im Säuglings- und Kindesalter erkennen und neurophysiologisch behandeln"
-- name: "Ina Kristin Pöckel"
-  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/8a54e4596eb083840fb41938e073a79846a7487e/Ina%20Poeckel-756x756.jpg"
-  behandlungsschwerpunkte:
-    - "Behandlung von schwerstmehrfachbehinderten Menschen In den Werkstätten der Lebenshilfe"
-    - name: "Behandlung von Kindern bei:"
-      children:
-        - "Entwicklungs- und Verhaltensstörungen"
-        - "Lernproblemen und Aufmerksamkeitsdefiziten"
-        - "Graphomotorischen Störungen"
-        - "Fein- und großmotorische Koordinationsstörungen"
-        - "Intensive Eltern- und Bezugspersonenberatung (Marte Meo)"
-  zusatzqualifikationen:
-    - "Marte Meo Practitioner"
-    - "Handrehabilitation"
 - name: "Stefanie Kälber"
-  img_src: "http://ergotherapie-ssl.de/_Resources/Persistent/783cfa25fb7b14140d1806318db3f3c01866706c/Julia%20Elsaesser-756x756.jpg"
+  img_src: "/img/Stefanie.jpg"
   behandlungsschwerpunkte:
     - "Klientenzentrierte und handlungsorientierte Befunderhebung und Behandlung für Kinder und Jugendliche mit rheumatischen Erkrankungen, neurologischen Erkrankungen, UEMF (CO-OP-Ansatz), Schul-/Lernproblemen und Verhaltensauffälligkeiten"
     - "Erwachsene mit Beeinträchtigungen im neurologischen und psychiatrischen Bereich"

@@ -26,7 +26,7 @@ Um eine optimale Behandlung unserer Patienten sicher zu stellen stehen in unsere
 
 {% include layout/center.html %}
 
-![Praxisraeume](http://ergotherapie-ssl.de/_Resources/Persistent/c061e8c90199f364a696db521fe3daa5838f6499/Praxisraeume-1140x855.jpg)
+![Praxisraeume](/img/Praxisraeume-1140x855.jpg)
 
 {% include layout/right_side.html %}
 
@@ -54,14 +54,14 @@ Mit einem Klick auf ein Bild können Sie dieses vergrößert betrachten.
 
 {% include unsere_praxis/image_gallery_top.html %}
 
-{% include unsere_praxis/image_in_gallery.html src="http://ergotherapie-ssl.de/_Resources/Persistent/0ac3e121b709af9f9aeac1266bf7646e10e8de16/Behandlungsraeume.jpg" alt="Behandlungsraeume" %}
+{% include unsere_praxis/image_in_gallery.html src="/img/Behandlungsraeume.jpg" alt="Behandlungsraeume" %}
 
-{% include unsere_praxis/image_in_gallery.html src="http://ergotherapie-ssl.de/_Resources/Persistent/21aed5b7a3ac7077849b2065123724e38eddb82a/Behandlungsraum.jpg" alt="Behandlungsraum" %}
+{% include unsere_praxis/image_in_gallery.html src="/img/Behandlungsraum.jpg" alt="Behandlungsraum" %}
 
-{% include unsere_praxis/image_in_gallery.html src="http://ergotherapie-ssl.de/_Resources/Persistent/7b016b31c370cab25022388105395159dabc300b/Praxisraeume.jpg" alt="Praxisraeume" %}
+{% include unsere_praxis/image_in_gallery.html src="/img/Praxisraeume.jpg" alt="Praxisraeume" %}
 
-{% include unsere_praxis/image_in_gallery.html src="http://ergotherapie-ssl.de/_Resources/Persistent/ed07513b439263ac4ebd11bbd6dc43be791b0ebc/Rutsche.jpg" alt="Rutsche" %}
+{% include unsere_praxis/image_in_gallery.html src="/img/Rutsche.jpg" alt="Rutsche" %}
 
-{% include unsere_praxis/image_in_gallery.html src="http://ergotherapie-ssl.de/_Resources/Persistent/eaf6665970f84bb6470b4640776d971cfecaaef6/Tisch.jpg" alt="Tisch" %}
+{% include unsere_praxis/image_in_gallery.html src="/img/Tisch.jpg" alt="Tisch" %}
 
 {% include unsere_praxis/image_gallery_bottom.html %}
