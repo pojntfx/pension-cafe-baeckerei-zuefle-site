@@ -18,6 +18,6 @@ workbox.routing.registerRoute(/\.html$/, workbox.strategies.networkFirst());
 
 // use `cacheFirst` strategy for images
 workbox.routing.registerRoute(
-  /assets\/(img|icons)/,
+  /img/,
   workbox.strategies.cacheFirst()
 );
