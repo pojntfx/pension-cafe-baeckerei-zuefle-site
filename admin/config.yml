@@ -2,22 +2,12 @@ backend:
   name: "git-gateway"
 media_folder: "img"
 collections:
-  - name: "pages"
-    label: "Pages"
+  - name: "page"
+    label: "Page"
     folder: "_pages"
     create: false
     slug: ".md"
     fields:
-      - label: "Layout"
-        name: "layout"
-        widget: "select"
-        options:
-          - "home"
-          - "default"
-        default: "default"
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - {label: "Layout", name: "layout", widget: "select", options: ["default", "home"]}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
