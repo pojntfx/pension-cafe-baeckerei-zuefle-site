@@ -4,7 +4,7 @@ media_folder: "img"
 collections:
   - name: "pages"
     label: "Pages"
-    folder: ""
+    folder: "/"
     create: false
     slug: "{{slug}}"
     fields:
