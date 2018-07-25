@@ -8,9 +8,19 @@ collections:
     create: false
     slug: ".md"
     fields:
-      - {label: "Layout", name: "layout", widget: "select", options: ["default", "home"]}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options: 
+          - "default"
+          - "home"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        required: false
   - name: "team_members"
     label: "Team Members"
     files:
@@ -25,6 +35,12 @@ collections:
               - label: "Name"
                 name: "name"
                 widget: "string"
-              - {label: Image, name: img_src, widget: image}
-              - {label: Behandlungsschwerpunkte, name: behandlungsschwerpunkte, widget: string}
-              - {label: Zusatzqualifikationen, name: zusatzqualifikationen, widget: string}
+              - label: Image
+                name: img_src
+                widget: image
+              - label: Behandlungsschwerpunkte
+                name: behandlungsschwerpunkte
+                widget: list
+              - label: Zusatzqualifikationen
+                name: zusatzqualifikationen
+                widget: list
