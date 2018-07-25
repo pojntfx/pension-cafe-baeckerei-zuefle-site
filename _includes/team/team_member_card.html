@@ -24,11 +24,20 @@
       {% endif %} {% if include.zusatzqualifikationen %}
       <strong>Zusatzqualifikationen</strong>
       <ul>
-        {% for qualifikation in include.zusatzqualifikationen %}
+        {% for qualifikation in include.zusatzqualifikationen %} {% if qualifikation.children %}
+        <li>
+          {{ qualifikation.name }}
+          <ul>
+            {% for qualifikation in qualifikation.children %}
+            <li>{{ qualifikation }}</li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% else %}
         <li>
           {{ qualifikation }}
         </li>
-        {% endfor %}
+        {% endif %} {% endfor %}
       </ul>
       {% endif %}
     </p>
