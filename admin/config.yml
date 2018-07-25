@@ -4,13 +4,16 @@ media_folder: "img"
 collections:
   - name: "pages"
     label: "Pages"
-    folder: "/"
+    folder: "_pages"
     create: false
-    slug: "{{slug}}"
+    slug: ".md"
     fields:
       - label: "Layout"
         name: "layout"
-        widget: "hidden"
+        widget: "select"
+        options:
+          - "home"
+          - "default"
         default: "default"
       - label: "Title"
         name: "title"
