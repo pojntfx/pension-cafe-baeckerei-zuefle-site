@@ -22,7 +22,9 @@ collections:
             label: "Team Members"
             widget: "list"
             fields:
-              - {label: "Name", name: "name", widget: "string"}
+              - label: "Name"
+                name: "name"
+                widget: "string"
               - {label: Image, name: img_src, widget: image}
               - {label: Behandlungsschwerpunkte, name: behandlungsschwerpunkte, widget: string}
               - {label: Zusatzqualifikationen, name: zusatzqualifikationen, widget: string}
