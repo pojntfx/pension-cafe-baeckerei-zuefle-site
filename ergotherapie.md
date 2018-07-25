@@ -10,7 +10,7 @@ Ergotherapie ist die Unterstützung, Begleitung und Beratung betroffener Mensche
 
 {% include layout/center.html %}
 
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/208910201a51d54205e19f011a45a65e393a7522/Was%20ist%20Ergotherapie-1140x641.jpg)
+![Ergotherapie stock photo featuring a ball and elderly two hands](/img/Was%20ist%20Ergotherapie-1140x641.jpg)
 
 {% include layout/right_side.html %}
 
@@ -27,7 +27,7 @@ weshalb sich unsere Patienten bei uns wohl fühlen
 
 {% include layout/left_side.html %}
 
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/7cf127650c4d515d85215f5b9464f2c1d590e73b/Philosophie%20unserer%20Praxis-1140x641.jpg)
+![Philosophie unserer Praxis stock photo featuring two elderly hands](/img/Philosophie%20unserer%20Praxis-1140x641.jpg)
 
 {% include layout/center.html %}
 
@@ -49,7 +49,7 @@ Patienten sowie deren enge Einbindung in die Therapie sind uns ein besonderes An
 
 {% include layout/center.html %}
 
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/0d2a2a9d873c36693a8d253b431a018b60f4d99c/Demenz%201-1140x641.jpg)
+![Demenz stock photo featuring wooden letters and two elderly hands](/img/Demenz%201-1140x641.jpg)
 
 {% include layout/right_side.html %}
 
@@ -81,7 +81,7 @@ Im Mittelpunkt der der neurologisch-ergotherapeutischen Behandlung steht die Ver
 
 {% include layout/center.html %}
 
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/27492f43eb71a64610d94e8f2c47bb237091d034/Neurologie-768x458.jpg)
+![Neurologie stock photo featuring treatment equipment](/img/Neurologie-768x458.jpg)
 
 {% include layout/right_side.html %}
 
@@ -135,7 +135,7 @@ Ziele der betätigungs- und handlungsorientierten pädiatrisch-ergotherapeutisch
 
 {% include layout/center.html %}
 
-![Image](http://ergotherapie-ssl.de/_Resources/Persistent/bc30937e94920f496f1d387a24e91be12e69d17e/Paediatrie-1140x855.jpg)
+![Pädiatrie stock photo featuring a child on a slide](/img/Paediatrie-1140x855.jpg)
 
 {% include layout/right_side.html %}
 
