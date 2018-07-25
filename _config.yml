@@ -31,6 +31,14 @@ plugins:
   - "jekyll-sitemap"
   - "jekyll-last-modified-at"
   - "jekyll-assets"
+  - "jekyll-pwa-plugin"
+
+# Decentralized Admin Interface
 jekyll_admin:
   hidden_links:
     - "posts" # We don't have any posts currently
+
+# Progressive Web App
+pwa:
+  sw_src_filepath: js/service-worker.js
+  dest_js_directory: assets/js
