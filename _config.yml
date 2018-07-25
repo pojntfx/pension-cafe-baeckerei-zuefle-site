@@ -3,7 +3,14 @@ title: "Ergotherapie Smeets-Labee"
 author: "Felix Pojtinger"
 email: "felix@pojtinger.com"
 description: >-
- " Static website for Ergotherapie Smeets-Labee"
+  Static website for Ergotherapie Smeets-Labee
+keywords:
+  - "Ergotherapie"
+  - "Praxis"
+  - "Demenz"
+  - "Neurologie"
+  - "Orthopädie"
+  - "Pädiatrie"
 
 # Contact
 contact:
@@ -32,6 +39,7 @@ plugins:
   - "jekyll-last-modified-at"
   - "jekyll-assets"
   - "jekyll-pwa-plugin"
+  - "jekyll-gzip"
 
 # Decentralized Admin Interface
 jekyll_admin:

@@ -59,6 +59,8 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
+    jekyll-gzip (1.1.0)
+      jekyll (~> 3.0)
     jekyll-last-modified-at (1.0.1)
       jekyll (~> 3.3)
       posix-spawn (~> 0.3.9)
@@ -134,6 +136,7 @@ DEPENDENCIES
   jekyll
   jekyll-admin
   jekyll-assets
+  jekyll-gzip
   jekyll-last-modified-at
   jekyll-pwa-plugin
   jekyll-sitemap
