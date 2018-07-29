@@ -1,45 +1,47 @@
-<div class="card">
-  <img class="card-img-top" src="{{ include.img_src }}" alt="Image of {{ include.name }}">
-  <div class="card-body">
-    <h5 class="card-title">{{ include.name }}</h5>
-    <p class="card-text">
-      {% if include.behandlungsschwerpunkte %}
-      <strong>Behandlungsschwerpunkte</strong>
-      <ul>
-        {% for schwerpunkt in include.behandlungsschwerpunkte %} {% if schwerpunkt.children %}
-        <li>
-          {{ schwerpunkt.name }}
-          <ul>
-            {% for schwerpunkt in schwerpunkt.children %}
-            <li>{{ schwerpunkt }}</li>
-            {% endfor %}
-          </ul>
-        </li>
-        {% else %}
-        <li>
-          {{ schwerpunkt }}
-        </li>
-        {% endif %} {% endfor %}
-      </ul>
-      {% endif %} {% if include.zusatzqualifikationen %}
-      <strong>Zusatzqualifikationen</strong>
-      <ul>
-        {% for qualifikation in include.zusatzqualifikationen %} {% if qualifikation.children %}
-        <li>
-          {{ qualifikation.name }}
-          <ul>
-            {% for qualifikation in qualifikation.children %}
-            <li>{{ qualifikation }}</li>
-            {% endfor %}
-          </ul>
-        </li>
-        {% else %}
-        <li>
-          {{ qualifikation }}
-        </li>
-        {% endif %} {% endfor %}
-      </ul>
-      {% endif %}
-    </p>
+<div class="col-12 col-lg-6 card--team-wrapper">
+  <div class="card">
+    <img class="card-img-top" src="{{ include.img_src }}" alt="Image of {{ include.name }}">
+    <div class="card-body">
+      <h5 class="card-title">{{ include.name }}</h5>
+      <p class="card-text">
+        {% if include.behandlungsschwerpunkte %}
+        <strong>Behandlungsschwerpunkte</strong>
+        <ul>
+          {% for schwerpunkt in include.behandlungsschwerpunkte %} {% if schwerpunkt.children %}
+          <li>
+            {{ schwerpunkt.name }}
+            <ul>
+              {% for schwerpunkt in schwerpunkt.children %}
+              <li>{{ schwerpunkt }}</li>
+              {% endfor %}
+            </ul>
+          </li>
+          {% else %}
+          <li>
+            {{ schwerpunkt }}
+          </li>
+          {% endif %} {% endfor %}
+        </ul>
+        {% endif %} {% if include.zusatzqualifikationen %}
+        <strong>Zusatzqualifikationen</strong>
+        <ul>
+          {% for qualifikation in include.zusatzqualifikationen %} {% if qualifikation.children %}
+          <li>
+            {{ qualifikation.name }}
+            <ul>
+              {% for qualifikation in qualifikation.children %}
+              <li>{{ qualifikation }}</li>
+              {% endfor %}
+            </ul>
+          </li>
+          {% else %}
+          <li>
+            {{ qualifikation }}
+          </li>
+          {% endif %} {% endfor %}
+        </ul>
+        {% endif %}
+      </p>
+    </div>
   </div>
 </div>
