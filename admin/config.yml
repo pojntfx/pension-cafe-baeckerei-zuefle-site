@@ -49,6 +49,7 @@ collections:
               - label: "Zusatzqualifikationen"
                 name: "zusatzqualifikationen"
                 widget: "list"
+                field:
                   - label: "Zusatzqualifikation"
                     name: "zusatzqualifikation"
                     widget: "string"
