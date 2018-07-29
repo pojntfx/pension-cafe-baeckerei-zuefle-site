@@ -1,6 +1,7 @@
 backend:
   name: "git-gateway"
 media_folder: "uploads/media"
+media_folder: "/uploads/media"
 collections:
   - name: "pages"
     label: "Pages"
@@ -35,12 +36,19 @@ collections:
               - label: "Name"
                 name: "name"
                 widget: "string"
-              - label: Image
-                name: img_src
-                widget: image
-              - label: Behandlungsschwerpunkte
-                name: behandlungsschwerpunkte
-                widget: list
-              - label: Zusatzqualifikationen
-                name: zusatzqualifikationen
-                widget: list
+              - label: "Image"
+                name: "img_src"
+                widget: "image"
+              - label: "Behandlungsschwerpunkte"
+                name: "behandlungsschwerpunkte"
+                widget: "list"
+                field:
+                  - label: "Behandlungsschwerpunkt"
+                    name: "behandlungsschwerpunkt"
+                    widget: "string"
+              - label: "Zusatzqualifikationen"
+                name: "zusatzqualifikationen"
+                widget: "list"
+                  - label: "Zusatzqualifikatione"
+                      name: "zusatzqualifikatione"
+                      widget: "string"
