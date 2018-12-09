@@ -1,8 +1,8 @@
 {
-  "name": "Praxis für Ergotherapie Smeets-Labee",
-  "short_name": "Ergotherapie",
-  "theme_color": "#d3292d",
-  "background_color": "#d3292d",
+  "name": "Cafe Züfle Baiersbronn-Mitteltal",
+  "short_name": "Cafe Züfle",
+  "theme_color": "#ff9c33",
+  "background_color": "#ff9c33",
   "display": "standalone",
   "Scope": "/",
   "start_url": "/",

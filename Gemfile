@@ -8,6 +8,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-last-modified-at"
   gem "jekyll-assets"
-  gem "jekyll-pwa-plugin"
   gem "jekyll-gzip"
 end

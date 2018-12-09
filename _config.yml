@@ -1,38 +1,27 @@
 # Meta
-title: "Ergotherapie Smeets-Labee"
+title: "Cafe Züfle Baiersbronn-Mitteltal"
 author: "Felicitas Pojtinger"
 email: "felicitas@pojtinger.com"
 lang: "de"
 description: >-
-  Static website for Ergotherapie Smeets-Labee
+  Static site for Cafe Züfle in Baiersbronn-Mitteltal.
 keywords:
-  - "Ergotherapie"
-  - "Praxis"
-  - "Demenz"
-  - "Neurologie"
-  - "Orthopädie"
-  - "Pädiatrie"
-  - "Sandhausen"
-  - "Smeets"
-  - "Labee"
-  - "Anke Smeets"
-  - "Lizette Labee"
-  - "Smeets-Labee"
+  - "Cafe Zuefle"
 
 # Contact
 contact:
-  phone: "06224 / 54269"
-  email: "info@ergotherapie-ssl.de"
-  website: "www.ergotherapie-ssl.de"
+  phone: "07442 / 81320"
+  email: "cafe-m.zuefle@t-online.de"
+  website: "cafe-zuefle.de"
 
 # Location
 location:
-  address: "Waldstraße 25, 69207 Sandhausen"
-  iframe_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2599.5613404388932!2d8.652025315691521!3d49.34152317933769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4797bf3a1f8f58a7%3A0x647a4e4c2f30a3c9!2sWaldstra%C3%9Fe+25%2C+69207+Sandhausen!5e0!3m2!1sde!2sde!4v1504278794221"
+  address: "Ruhesteinstr. 304-307, 72270 Baiersbronn-Mitteltal"
+  iframe_url: "https://www.google.com/maps/embed/v1/place?q=Ruhesteinstr.+304-307,+72270+Baiersbronn-Mitteltal&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
 
 # Config
 baseurl: ""
-url: "https://www.ergotherapie-ssl.de/"
+url: "https://cafe-zuefle.de"
 defaults:
   - scope:
       path: ""
@@ -42,22 +31,17 @@ collections:
   pages:
     output: true
     permalink: /:path.html
-    
+
 # Plugins
 plugins:
   - "jekyll-admin"
   - "jekyll-sitemap"
   - "jekyll-last-modified-at"
   - "jekyll-assets"
-  - "jekyll-pwa-plugin"
   - "jekyll-gzip"
 
 # Decentralized Admin Interface
 jekyll_admin:
   hidden_links:
-    - "posts" # We don't have any posts currently
-
-# Progressive Web App
-pwa:
-  sw_src_filepath: js/service-worker.js
-  dest_js_directory: assets/js
+    - posts # We don't have any posts currently
+    - datafiles # We don't have any data files yet

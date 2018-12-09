@@ -22,26 +22,3 @@ collections:
         name: "body"
         widget: "markdown"
         required: false
-  - name: "team_members"
-    label: "Team Members"
-    files:
-      - label: "Team Members"
-        name: "team_members"
-        file: "_data/team_members.yml"
-        fields:
-          - name: "team_members"
-            label: "Team Members"
-            widget: "list"
-            fields:
-              - label: "Name"
-                name: "name"
-                widget: "string"
-              - label: "Image"
-                name: "img_src"
-                widget: "image"
-              - label: "Behandlungsschwerpunkte"
-                name: "behandlungsschwerpunkte"
-                widget: "list"
-              - label: "Zusatzqualifikationen"
-                name: "zusatzqualifikationen"
-                widget: "list"
