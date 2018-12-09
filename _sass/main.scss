@@ -110,6 +110,18 @@ img:not(.navbar-brand-image) {
       margin-top: 3rem;
     }
   }
+  > * > img {
+    display: block;
+    margin: 0 auto;
+  }
+  > .split {
+    @media screen and (max-width: 1200px) {
+      > * > * > img {
+        display: block;
+        margin: 0 auto;
+      }
+    }
+  }
 }
 
 .btn,
