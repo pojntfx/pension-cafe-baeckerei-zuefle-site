@@ -10,9 +10,9 @@ Es gibt vielfältige Ausflugsziele rund um die Gemeinde Baiersbronn die ihren Be
 ![Schwarzwaldhochstraße/B500](/uploads/media/schwarzwaldhochstrasse-b500.jpg)
 {% include layout/center.html inverted="true" %}
 
-- **Freudenstadt:** Größter Marktplatz Deutschlands mit seinen Wasserspielen, Glasbläserei, Panoramabad
-- **Schwarzwaldhochstraße:** Naturschutzzentrum Ruhestein, Lotharpfad, Skilifte, Rodelbahnen, Loipen, Wanderparadies, Hochmoor Hornisgrinde, Mummelsee
-- **Dornstetten:** Historische Altstadt, Barfußpark
+- **[Freudenstadt](https://www.freudenstadt.de/de/Freudenstadt-Portal):** Größter Marktplatz Deutschlands mit seinen Wasserspielen, Glasbläserei, Panoramabad
+- **[Schwarzwaldhochstraße](https://www.nationalpark-schwarzwald.de/):** Naturschutzzentrum Ruhestein, Lotharpfad, Skilifte, Rodelbahnen, Loipen, Wanderparadies, Hochmoor Hornisgrinde, Mummelsee
+- **[Dornstetten](https://www.dornstetten.de/):** Historische Altstadt, Barfußpark
 
 {% include layout/right_side.html %}
 
@@ -20,11 +20,11 @@ Es gibt vielfältige Ausflugsziele rund um die Gemeinde Baiersbronn die ihren Be
 
 {% include layout/left_side.html %}
 
-- **Forbach:** Europas größte überdachte Holzbrücke, Murgtalmuseum
-- **Enzklösterle-Poppeltal:** Freizeitpark, Riesenrutschbahn, Adventure-Minigolfplatz
-- **Mehliskopf:** Ganzjahres-Bobbahn
-- **Alpirsbach:** Kloster, Glasbläserei, Kultur-Kino Subiaco, Brauerei
-- **Bad Wildbad:** Palais Thermal
+- **[Forbach](https://www.forbach.de/):** Europas größte überdachte Holzbrücke, Murgtalmuseum
+- **[Enzklösterle-Poppeltal](https://www.enzkloesterle.de/de/):** Freizeitpark, Riesenrutschbahn, Adventure-Minigolfplatz
+- **[Mehliskopf](https://www.mehliskopf.de/home/):** Ganzjahres-Bobbahn
+- **[Alpirsbach](https://www.stadt-alpirsbach.de/de/Home):** Kloster, Glasbläserei, Kultur-Kino Subiaco, Brauerei
+- **[Bad Wildbad](https://www.bad-wildbad.de/):** Palais Thermal
 
 {% include layout/center.html %}
 ![Hornisgrinde](/uploads/media/hochmoor-hornisgrinde.jpg)
@@ -37,7 +37,7 @@ Es gibt vielfältige Ausflugsziele rund um die Gemeinde Baiersbronn die ihren Be
 
 {% include layout/center.html inverted="true"%}
 
-- **Baden-Baden:** Casino, Caracalla Therme, Friedrichsbad, Int. Galopprennen Rennbahn Iffezheim
+- **[Baden-Baden](https://www.baden-baden.de/):** Casino, Caracalla Therme, Friedrichsbad, Int. Galopprennen Rennbahn Iffezheim
 
 {% include layout/right_side.html %}
 
@@ -45,11 +45,11 @@ Es gibt vielfältige Ausflugsziele rund um die Gemeinde Baiersbronn die ihren Be
 
 {% include layout/left_side.html %}
 
-- **Wolfach:** Glasbläserei in der Dorotheenhütte
-- **Rastatt:** Lustschloss Favorite, Niederbühl/Förch
-- **Hirsau:** Kloster
-- **Schramberg:** Burg Hohenschramberg, Burg Schilteck, Burg Frankenstein, Museum im Schloss
-- **Gutach:** Freilichtmuseum Vogtsbauernhöfe
+- **[Wolfach](https://www.wolfach.de/):** Glasbläserei in der Dorotheenhütte
+- **[Rastatt](https://www.rastatt.de/index.php?id=73):** Lustschloss Favorite, Niederbühl/Förch
+- **[Hirsau](http://www.kloster-hirsau.de/):** Kloster
+- **[Schramberg](https://www.schramberg.de/willkommen):** Burg Hohenschramberg, Burg Schilteck, Burg Frankenstein, Museum im Schloss
+- **[Gutach](https://www.gutach-schwarzwald.de/):** Freilichtmuseum Vogtsbauernhöfe
 
 {% include layout/center.html %}
 
@@ -63,12 +63,12 @@ Es gibt vielfältige Ausflugsziele rund um die Gemeinde Baiersbronn die ihren Be
 ![Mummelsee](/uploads/media/mummelsee.jpg)
 {% include layout/center.html inverted="true" %}
 
-- **Furtwangen:** Deutsches Uhrenmuseum
-- **Stuttgart:** Schloss, Wilhelma, Fernsehturm, Staatsgalerie
-- **Straßburg:** Münster, historische Innenstadt
-- **Maulbronn:** Weltkulturdenkmal Zisterzienserkloster
-- **Rust:** Europa-Park
-- **Hechingen:** Burg Hohenzollern
-- **Karlsruhe:** Zoo, Schloss, Badisches Landesmuseum
+- **[Furtwangen](https://www.furtwangen.de/,Lde/startseite.html):** Deutsches Uhrenmuseum
+- **[Stuttgart](https://www.stuttgart.de/):** Schloss, Wilhelma, Fernsehturm, Staatsgalerie
+- **[Straßburg](https://www.strasbourg.eu/):** Münster, historische Innenstadt
+- **[Maulbronn](https://www.maulbronn.de/index.php?id=3):** Weltkulturdenkmal Zisterzienserkloster
+- **[Rust](https://www.rust.de/):** Europa-Park
+- **[Hechingen](https://www.hechingen.de/willkommen):** Burg Hohenzollern
+- **[Karlsruhe](https://www.karlsruhe.de/):** Zoo, Schloss, Badisches Landesmuseum
 
 {% include layout/right_side.html %}
