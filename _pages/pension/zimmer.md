@@ -78,6 +78,8 @@ Appartement mit Wohnzimmer, Schlafzimmer, Dusche, WC, Südbalkon, TV
 %}
 {% include gallery/bottom.html %}
 
+{% include layout/left_side.html %}
 Darüber hinaus steht unseren Hausgästen ein Aufenthaltsraum mit Gäste-Kühlschrank und Satelliten-TV zur Verfügung.
-
+{% include layout/center.html %}
 ![Aufenthaltsraum](/uploads/media/aufenthaltsraum.jpg)
+{% include layout/right_side.html %}

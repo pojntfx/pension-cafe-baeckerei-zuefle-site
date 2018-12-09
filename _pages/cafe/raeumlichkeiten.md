@@ -2,25 +2,30 @@
 title: "Räumlichkeiten"
 ---
 
+{% include layout/left_side.html %}
 Unser Café ist durch die zentrale Lage der ideale Ausgangspunkt für schöne Wanderungen und herrliche Spaziergänge.
 
 In unmittelbarer Nähe befinden sich der Kurgarten, der Murgwanderweg, die Weißenbachhalle, das beheizte Freischwimmbad, Tennis- und Reitanlage, Kinderspielplätze sowie vielseitige Einkaufsmöglichkeiten.
 
-![Große Caféstube](/uploads/media/grosse-kaffeestube.jpg)
-
 Die große Caféstube bietet Platz für 28 Gäste.
+{% include layout/center.html %}
+![Große Caféstube](/uploads/media/grosse-kaffeestube.jpg)
+{% include layout/right_side.html %}
 
 ## Sitzplätze
 
-Gerne verwöhnen wir Sie in unseren behaglichen Café-Räumen mit Leckereien aus hauseigener Backstube.
+{% include layout/left_side.html inverted="true" %}
 
 ![Alte Dorfstube](/uploads/media/alte-dorfstube.jpg)
+{% include layout/center.html inverted="true" %}
+Gerne verwöhnen wir Sie in unseren behaglichen Café-Räumen mit Leckereien aus hauseigener Backstube.
 
 4 neue Caféräume in verschiedenen Stilrichtungen laden zum Verweilen ein und egal mit wievielen Personen Sie uns gerne besuchen möchten ... wir bieten Ihnen den entsprechenden Rahmen!
+{% include layout/right_side.html %}
 
 | Raum            | Sitzplatzanzahl |
 | --------------- | --------------- |
-| Terrasse         | 65 Sitzplätze   |
+| Terrasse        | 65 Sitzplätze   |
 | Alte Dorfstube  | 23 Sitzplätze   |
 | Kaffeestüble    | 28 Sitzplätze   |
 | Große Caféstube | 28 Sitzplätze   |

@@ -2,18 +2,21 @@
 title: Bäckerei
 ---
 
+{% include layout/left_side.html %}
 Wir backen noch selbst!
 
 Täglich stellt das Züfle-Team frische Brot- und Backwaren aus erlesenen Zutaten selbst her.
 
-Zu unseren Spezialitäten zählt unter anderem die original Schwarzwälder Kirschtorte:
-
-![Schwarzwälder Kirschtorte](/uploads/media/kirschtorte.jpg)
+Zu unseren Spezialitäten zählt unter anderem die original Schwarzwälder Kirschtorte!
+{% include layout/center.html %}
+![Kuchen](/uploads/media/kuchen.jpg)
+{% include layout/right_side.html %}
 
 ## Angebote
 
-![Kuchen](/uploads/media/kuchen.jpg)
-
+{% include layout/left_side.html %}
+![Schwarzwälder Kirschtorte](/uploads/media/kirschtorte.jpg)
+{% include layout/center.html %}
 Auch das sollten Sie probieren:
 
 - Unterschiedlichste Cremetorten
@@ -32,15 +35,21 @@ Auch das sollten Sie probieren:
 - Dessertkuchen
 - ... und vieles mehr!
 
+{% include layout/right_side.html %}
+
 ## Backwahren
 
-![Brottheke](/uploads/media/brottheke.jpg)
-
+{% include layout/left_side.html %}
 Jeweils ca. 20 verschiedene Brötchensorten und Brote, wie Züfles Bauernbrot (ein sehr beliebtes Brot, das nach einem alten Hausrezept gebacken wird) bieten wir an ... kommen Sie vorbei und überzeugen Sie sich selbst!
+{% include layout/center.html %}
+![Brottheke](/uploads/media/brottheke.jpg)
+{% include layout/right_side.html %}
 
-Auch wenn Sie nur auf der Durchreise oder gerade ein wenig in Eile sind, brauchen Sie auf unsere Leckereien nicht zu verzichten, denn selbstverständlich können Sie alles entweder in unserem gemütlichen Café genießen oder einfach mitnehmen - sogar ihren frisch aufgebrühten Kaffee!
-
+{% include layout/left_side.html inverted="true" %}
 ![Kuchentheke](/uploads/media/kuchentheke.jpg)
+{% include layout/center.html inverted="true" %}
+Auch wenn Sie nur auf der Durchreise oder gerade ein wenig in Eile sind, brauchen Sie auf unsere Leckereien nicht zu verzichten, denn selbstverständlich können Sie alles entweder in unserem gemütlichen Café genießen oder einfach mitnehmen - sogar ihren frisch aufgebrühten Kaffee!
+{% include layout/right_side.html %}
 
 ## Andere Lebensmittel
 
