@@ -1,7 +1,7 @@
 ---
-title: "Impressum"
+layout: default
+title: Impressum
 ---
-
 ## Angaben gemäß § 5 TMG
 
 Matthias Züfle<br/>
@@ -14,18 +14,6 @@ E-Mail: cafe-m.zuefle@t-online.de
 ## Rechtsform
 
 Einzelunternehmen
-
-## Webmaster
-
-Diese Internet-Präsenz wurde erstellt von:
-
-**netteART Mediendesign**<br/>
-Annette Pojtinger<br/>
-Hirschkopfweg 7<br/>
-72270 Baiersbronn<br/>
-Tel. 0 74 42 / 5 09 38<br/>
-www.netteart.com<br/>
-E-Mail: info@netteart.com
 
 ## Haftungsausschluss
 
