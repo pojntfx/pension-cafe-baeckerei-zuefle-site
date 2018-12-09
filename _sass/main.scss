@@ -1,7 +1,15 @@
-$red: #d3292d;
+$orange: #ff9c33;
+body {
+  padding: 1em !important;
+  background: url("/img/bg.jpg") no-repeat center center fixed !important;
+  background-size: cover !important;
+}
+
 // Main sidebar
 .main-sidebar {
-  background: $red;
+  & > .wrapper {
+    background: $orange;
+  }
   @media (min-width: 1200px) {
     min-height: 100vh;
   }
@@ -14,37 +22,39 @@ $red: #d3292d;
 .main-navigation {
   .navbar-brand-image {
     height: 3rem;
-    margin-left: 1rem;
+    // margin-left: 1rem;
     @media screen and (min-width: 1200px) {
       height: 3.5rem;
-      margin-right: -63px;
+      // margin-right: -63px;
     }
     @media screen and (min-width: 1360px) {
       height: 5rem;
-      margin-right: -76px;
+      // margin-right: -76px;
     }
   }
   .dropdown-item {
     &:active,
     &:focus {
-      background-color: $red;
+      background-color: $orange;
     }
   }
+
+  border-radius: 8px;
 }
 
 // Links
 .nav-item.active {
   > .nav-link {
-    color: $red !important;
+    color: $orange !important;
   }
 }
 
 a {
-  color: $red;
+  color: $orange;
   &:focus,
   &:active,
   &:hover {
-    color: $red;
+    color: $orange;
   }
 }
 
@@ -60,6 +70,7 @@ a {
 // Images
 img:not(.navbar-brand-image) {
   max-width: 100%;
+  border-radius: 8px;
 }
 
 // Team page (replaced with grid)
@@ -78,6 +89,8 @@ img:not(.navbar-brand-image) {
 
 // Heading
 .main-content {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   & h2,
   h3,
   h4,
@@ -97,4 +110,16 @@ img:not(.navbar-brand-image) {
       margin-top: 3rem;
     }
   }
+}
+
+.btn,
+.location,
+.main-sidebar > .wrapper,
+.main-navigation,
+.dropdown-menu,
+.main-content {
+  border-radius: 8px;
+  box-shadow: 0 8px 12px 0 rgba(233, 235, 235, 0.16),
+    0 2px 8px 0 rgba(0, 0, 0, 0.08);
+  border: 0px solid transparent;
 }
