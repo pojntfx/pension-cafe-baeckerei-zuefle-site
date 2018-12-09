@@ -128,7 +128,7 @@ img:not(.navbar-brand-image) {
 table {
   @extend .table;
   @extend .table-hover;
-  @extend .table-responsive;
+  @extend .table-responsive-sm;
   & > thead {
     @extend .thead-light;
   }

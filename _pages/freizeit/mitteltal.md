@@ -1,3 +1,41 @@
 ---
 title: "Mitteltal"
 ---
+
+![Mitteltal Bergansicht](/uploads/media/mitteltal-bergansicht.jpg)
+
+Mitteltal (560 bis 800 m.ü.d.M.) ist ein beliebtes Ferienziel und bietet alles, was den Schwarzwald so reizvoll macht: Endlos scheinende Wälder voller Stille und Einsamkeit, lieblich geformte Höhenzüge, sagenumwobene Bergseen. Die großartige Landschaft, die klare, würzige Luft sind ein wahrer Gesundbrunnen für das heute so dringend notwendige Ausspannen, für Ruhe und Kräftigung.
+
+![Mitteltal See](/uploads/media/mitteltal-see.jpg)
+
+Die Pension Züfle ist ein optimaler Ausgangspunkt für Wanderungen, Fahrradtouren und sonstige Freizeitaktivitäten.
+
+![Mitteltal Winter](/uploads/media/mitteltal-winter.jpg)
+
+Besonders auch im Winter ist der Schwarzwald sehr romantisch und erholsam. Ein Erlebnis für sich.
+Es bieten sich herrliche Wanderungen in weißer, märchenhaft verschneiter Landschaft an.
+
+Langlaufloipen, Skilifte (mit Flutlicht) und die Eislaufhalle in Baiersbronn laden zu Winteraktivitäten ein.
+Auch ist die “Ski-Arena” an der Schwarzwaldhochstraße schnell zu erreichen.
+
+![Mitteltal Schramberg](/uploads/media/mitteltal-schramberg.jpg)
+
+Sie sehen schon: Mitteltal für hat für jeden etwas zu bieten ... und jede Jahreszeit hat ihren eigenen Reiz.
+
+Weitere Informationen erhalten Sie auch unter [mitteltal.de](https://www.baiersbronn.de/de-de/mitteltal)
+oder unter [baiersbronn.de](https://www.baiersbronn.de).
+
+{% include gallery/top.html %}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/winter-strassenansicht.jpg"
+    alt="Winter Strassenansicht"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/winter-flussansicht.jpg"
+    alt="Winter Flussansicht"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/winter-gartenansicht.jpg"
+    alt="Winter Gartenansicht"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/winter-gartenhaus.jpg"
+    alt="Winter Gartenhaus"
+%}
+{% include gallery/bottom.html %}
