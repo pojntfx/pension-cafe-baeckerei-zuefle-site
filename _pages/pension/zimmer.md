@@ -77,3 +77,7 @@ Appartement mit Wohnzimmer, Schlafzimmer, Dusche, WC, Südbalkon, TV
     alt="Typ 4 Bad"
 %}
 {% include gallery/bottom.html %}
+
+Darüber hinaus steht unseren Hausgästen ein Aufenthaltsraum mit Gäste-Kühlschrank und Satelliten-TV zur Verfügung.
+
+![Aufenthaltsraum](/uploads/media/aufenthaltsraum.jpg)
