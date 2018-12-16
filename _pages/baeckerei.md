@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Bäckerei
 ---
-
 {% include layout/left_side.html %}
 Wir backen noch selbst!
 
@@ -19,25 +19,25 @@ Zu unseren Spezialitäten zählt unter anderem die original Schwarzwälder Kirsc
 {% include layout/center.html %}
 Auch das sollten Sie probieren:
 
-- Unterschiedlichste Cremetorten
-- in großer Auswahl
-- Zwetschgenkuchen
-- Bienenstich
-- Johannisbeerkuchen
-- Kirschkuchen
-- Apfelkuchen
-- Käsekuchen
-- schwäbischer Rahmkuchen
-- Rhabarberkuchen
-- Käse-Sahne-Torte
-- Verschiedene Sahnetorten
-- in leckeren Variationen
-- Dessertkuchen
-- ... und vieles mehr!
+* Unterschiedlichste Cremetorten
+* in großer Auswahl
+* Zwetschgenkuchen
+* Bienenstich
+* Johannisbeerkuchen
+* Kirschkuchen
+* Apfelkuchen
+* Käsekuchen
+* schwäbischer Rahmkuchen
+* Rhabarberkuchen
+* Käse-Sahne-Torte
+* Verschiedene Sahnetorten
+* in leckeren Variationen
+* Dessertkuchen
+* ... und vieles mehr!
 
 {% include layout/right_side.html %}
 
-## Backwahren
+## Backwaren
 
 {% include layout/left_side.html %}
 Jeweils ca. 20 verschiedene Brötchensorten und Brote, wie Züfles Bauernbrot (ein sehr beliebtes Brot, das nach einem alten Hausrezept gebacken wird) bieten wir an ... kommen Sie vorbei und überzeugen Sie sich selbst!
