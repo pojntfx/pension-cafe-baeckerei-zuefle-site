@@ -11,19 +11,19 @@ Ein besonderer Anziehungspunkt ist unsere große Gartenterrasse inmitten herrlic
 {% include layout/right_side.html %}
 
 {% include gallery/top.html %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-eingang.jpg"
-    alt="Terrasse Eingang"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-1.jpg"
+    alt="Terrasse 1"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-teich.jpg"
-    alt="Terrasse Teich"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-2.jpg"
+    alt="Terrasse 2"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-haus.jpg"
-    alt="Terrasse Gartenaus"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-3.jpg"
+    alt="Terrasse 3"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-statue.jpg"
-    alt="Terrasse Statue"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-4.jpg"
+    alt="Terrasse 4"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-winter.jpg"
-    alt="Terrasse im Winter"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/terrasse-5.jpg"
+    alt="Terrasse 5"
 %}
 {% include gallery/bottom.html %}
