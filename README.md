@@ -10,9 +10,14 @@ Static site for Cafe Zuefle in Baiersbronn-Mitteltal.
 ```bash
 # Install dependencies
 $ dnf group install "C Development Tools and Libraries"
-$ dnf install ruby ruby-devel redhat-rpm-config nodejs
+$ dnf install nodejs
 $ npm install -g serve
-$ gem install jekyll bundler
+$ gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+$ curl -sSL https://get.rvm.io | bash -s stable
+$ source /home/${USER}/.rvm/scripts/rvm
+$ rvm install 2.4
+$ rvm 2.4
+$ gem install bundler
 $ bundle install
 ```
 
