@@ -9,10 +9,10 @@ Bei uns im Schwarzwald haben Sie Möglichkeiten ohne Ende, ganz egal was Sie ger
 Gehen Sie im Schwarzwald zum Wandern, genießen Sie die wunderschöne Landschaft oder genießen Sie Beauty & Wellness.
 
 {% include gallery/top.html %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/wandern.jpg"
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/wandern-neu.jpg"
     alt="Wandern"
 %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/landschaft.jpg"
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/landschaft-neu.jpg"
     alt="Landschaft"
 %}
 {% include gallery/bottom.html %}
@@ -22,17 +22,14 @@ Gehen Sie im Schwarzwald zum Wandern, genießen Sie die wunderschöne Landschaft
 Auch Fahradfahren und weitere Sportarten können hier im Schwarzwald ausgeführt werden.
 
 {% include gallery/top.html %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/fahrradfahren.jpg"
-    alt="Fahradfahren"
-%}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/nordic-walking.jpg"
-    alt="Nordic Walking"
-%}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/mountainbiking.jpg"
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/mountainbiking-neu.jpg"
     alt="Mountainbiking"
 %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/gleitschirmfliegen.jpg"
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/gleitschirmfliegen-neu.jpg"
     alt="Gleitschirmfliegen"
+%}
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/fahrradfahren-neu.jpg"
+    alt="Fahrradfahren"
 %}
 {% include gallery/bottom.html %}
 
@@ -41,28 +38,16 @@ Auch Fahradfahren und weitere Sportarten können hier im Schwarzwald ausgeführt
 Die bezaubernde Natur des Schwarzwaldes wird auch Sie faszinieren.
 
 {% include gallery/top.html %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/karseen.jpg"
-    alt="Karseen"
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/umwelt-winter.jpg"
+    alt="Umwelt im Winter"
 %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/blume.jpg"
-    alt="Blume"
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/mummelsee-neu.jpg"
+    alt="Mummelsee"
 %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/holzweg-person.jpg"
-    alt="Person auf dem Holzweg"
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/umwelt-wandern.jpg"
+    alt="Wandern in der Umwelt"
 %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/holzweg-schild.jpg"
-    alt="Schild des Holzwegs"
-%}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/ziegen.jpg"
-    alt="Ziegen"
-%}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/reh.jpg"
-    alt="Reh"
-%}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/weisse-blume.jpg"
-    alt="Weiße Blume"
-%}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/wald.jpg"
-    alt="Wald"
+{% include gallery/image_in_gallery.html                                                 src="/uploads/media/umwelt-winter-haus.jpg"
+    alt="Haus im Winter"
 %}
 {% include gallery/bottom.html %}

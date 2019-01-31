@@ -9,14 +9,14 @@ In unmittelbarer Nähe befinden sich der Kurgarten, der Murgwanderweg, die Weiß
 
 Die große Caféstube bietet Platz für 28 Gäste.
 {% include layout/center.html %}
-![Große Caféstube](/uploads/media/grosse-kaffeestube.jpg)
+![Banner](/uploads/media/cafe-rauemlichkeiten-banner.jpg)
 {% include layout/right_side.html %}
 
 ## Sitzplätze
 
 {% include layout/left_side.html inverted="true" %}
 
-![Alte Dorfstube](/uploads/media/alte-dorfstube.jpg)
+![Sitzplaetze](/uploads/media/sitzplaetze.jpg)
 {% include layout/center.html inverted="true" %}
 Gerne verwöhnen wir Sie in unseren behaglichen Café-Räumen mit Leckereien aus hauseigener Backstube.
 
@@ -33,37 +33,65 @@ Gerne verwöhnen wir Sie in unseren behaglichen Café-Räumen mit Leckereien aus
 
 ## Alte Dorfbackstube
 
+![Alte Dorfbackstube Banner](/uploads/media/alte-dorfbackstube-banner.jpg)
+
 In der alten Dorfbackstube ist es richtig heimelig! 23 Gäste können hier in gemütlicher Runde zusammensitzen.
 
 {% include gallery/top.html %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/dorfbackstube-sitzecke.jpg"
-    alt="Dorfbackstube Sitzecke"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-1.jpg"
+    alt="Dorfbackstube 1"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/dorfbackstube-schraenke.jpg"
-    alt="Dorfbackstube Schränke"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-2.jpg"
+    alt="Dorfbackstube 2"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/dorfbackstube-schraenke-detailansicht.jpg"
-    alt="Dorfbackstube Schränke in einer Detailansicht"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-3.jpg"
+    alt="Dorfbackstube 3"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/dorfbackstube-weihnachten.jpg"
-    alt="Dorfbackstube Weihnachten"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-4.jpg"
+    alt="Dorfbackstube 4"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/dorfbackstube-tische.jpg"
-    alt="Dorfbackstube Tische"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-5.jpg"
+    alt="Dorfbackstube 5"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-6.jpg"
+    alt="Dorfbackstube 6"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-7.jpg"
+    alt="Dorfbackstube 7"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-8.jpg"
+    alt="Dorfbackstube 8"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-9.jpg"
+    alt="Dorfbackstube 9"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-10.jpg"
+    alt="Dorfbackstube 10"
+%}{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-11.jpg"
+    alt="Dorfbackstube 11"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-12.jpg"
+    alt="Dorfbackstube 12"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/alte-dorfbackstube-13.jpg"
+    alt="Dorfbackstube 13"
 %}
 {% include gallery/bottom.html %}
 
 ## Kaffeestüble
 
 {% include gallery/top.html %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/kaffestueble-plakate.jpg"
-    alt="Kaffeestüble Plakate"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/kaffeestueble-1.jpg"
+    alt="Kaffeestüble 1"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/kaffestueble-tische.jpg"
-    alt="Kaffeestüble Tische"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/kaffeestueble-2.jpg"
+    alt="Kaffeestüble 2"
 %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/kaffestueble-eingang.jpg"
-    alt="Kaffeestüble Eingang"
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/kaffeestueble-3.jpg"
+    alt="Kaffeestüble 3"
+%}
+{% include gallery/image_in_gallery.html                                     src="/uploads/media/kaffeestueble-4.jpg"
+    alt="Kaffeestüble 4"
 %}
 {% include gallery/bottom.html %}
 

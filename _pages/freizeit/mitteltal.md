@@ -28,20 +28,3 @@ oder unter [baiersbronn.de](https://www.baiersbronn.de).
 {% include layout/center.html %}
 ![Mitteltal See](/uploads/media/mitteltal-see.jpg)
 {% include layout/right_side.html %}
-
-<!-- ![Mitteltal Schramberg](/uploads/media/mitteltal-schramberg.jpg) -->
-
-{% include gallery/top.html %}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/winter-strassenansicht.jpg"
-    alt="Winter Strassenansicht"
-%}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/winter-flussansicht.jpg"
-    alt="Winter Flussansicht"
-%}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/winter-gartenansicht.jpg"
-    alt="Winter Gartenansicht"
-%}
-{% include gallery/image_in_gallery.html                                     src="/uploads/media/winter-gartenhaus.jpg"
-    alt="Winter Gartenhaus"
-%}
-{% include gallery/bottom.html %}

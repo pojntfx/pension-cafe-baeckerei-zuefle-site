@@ -75,20 +75,10 @@ Auch wenn Sie nur auf der Durchreise oder gerade ein wenig in Eile sind, brauche
 
 Außerdem finden Sie in unserem Lebensmittelgeschäft (fast) alles was Sie benötigen ... von frischem Obst über Konserven, Getränken, Süßigkeiten, Milch, Joghurt, Wurst und Käse ... bis hin zum Souvenir.
 
-{% include gallery/top.html %}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/laden-eingang.jpg"
-    alt="Ladeneingang"
-%}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/laden-kasse.jpg"
-    alt="Ladenkasse"
-%}
-{% include gallery/image_in_gallery.html                                                 src="/uploads/media/werbeplakat.jpg"
-    alt="Werbeplakat aus der jungen Bundesrepublik"
-%}
-{% include gallery/bottom.html %}
+![Ladeneingang](/uploads/media/baeckerei-ladeneingang.jpg)
 
 ## Schauen Sie vorbei!
 
-![Bäckerei Banner](/uploads/media/baeckerei-banner.jpg)
+![Bäckerei Banner](/uploads/media/backerei-brote.jpg)
 
 ... hier gibt’s sooo viel Leckeres!
