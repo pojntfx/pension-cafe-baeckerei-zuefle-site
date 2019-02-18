@@ -10,7 +10,7 @@ Täglich stellt das Züfle-Team frische Brot- und Backwaren aus erlesenen Zutate
 
 Zu unseren Spezialitäten zählt unter anderem die original Schwarzwälder Kirschtorte!
 {% include layout/center.html %}
-![Kuchen](/uploads/media/kuchen.jpg)
+![Kuchen](/assets/media/kuchen.jpg)
 {% include layout/right_side.html %}
 
 ## Öffnungszeiten
@@ -26,16 +26,16 @@ Zu unseren Spezialitäten zählt unter anderem die original Schwarzwälder Kirsc
 
 {% include layout/center.html %}
 
-![Kaffeekanne](/uploads/media/kaffeekanne.jpg)
+![Kaffeekanne](/assets/media/kaffeekanne.jpg)
 
 {% include layout/right_side.html %}
 
-Für das Café finden Sie die Öffnungszeiten [hier](/cafe/oeffnungszeiten.html).
+Für das Café finden Sie die Öffnungszeiten [hier](/cafe/oeffnungszeiten).
 
 ## Angebote
 
 {% include layout/left_side.html %}
-![Schwarzwälder Kirschtorte](/uploads/media/kirschtorte.jpg)
+![Schwarzwälder Kirschtorte](/assets/media/kirschtorte.jpg)
 {% include layout/center.html %}
 Auch das sollten Sie probieren:
 
@@ -62,11 +62,11 @@ Auch das sollten Sie probieren:
 {% include layout/left_side.html %}
 Jeweils ca. 20 verschiedene Brötchensorten und Brote, wie Züfles Bauernbrot (ein sehr beliebtes Brot, das nach einem alten Hausrezept gebacken wird) bieten wir an ... kommen Sie vorbei und überzeugen Sie sich selbst!
 {% include layout/center.html %}
-![Brottheke](/uploads/media/brottheke.jpg)
+![Brottheke](/assets/media/brottheke.jpg)
 {% include layout/right_side.html %}
 
 {% include layout/left_side.html inverted="true" %}
-![Kuchentheke](/uploads/media/kuchentheke.jpg)
+![Kuchentheke](/assets/media/kuchentheke.jpg)
 {% include layout/center.html inverted="true" %}
 Auch wenn Sie nur auf der Durchreise oder gerade ein wenig in Eile sind, brauchen Sie auf unsere Leckereien nicht zu verzichten, denn selbstverständlich können Sie alles entweder in unserem gemütlichen Café genießen oder einfach mitnehmen - sogar ihren frisch aufgebrühten Kaffee!
 {% include layout/right_side.html %}
@@ -75,10 +75,10 @@ Auch wenn Sie nur auf der Durchreise oder gerade ein wenig in Eile sind, brauche
 
 Außerdem finden Sie in unserem Lebensmittelgeschäft (fast) alles was Sie benötigen ... von frischem Obst über Konserven, Getränken, Süßigkeiten, Milch, Joghurt, Wurst und Käse ... bis hin zum Souvenir.
 
-![Ladeneingang](/uploads/media/baeckerei-ladeneingang.jpg)
+![Ladeneingang](/assets/media/baeckerei-ladeneingang.jpg)
 
 ## Schauen Sie vorbei!
 
-![Bäckerei Banner](/uploads/media/backerei-brote.jpg)
+![Bäckerei Banner](/assets/media/backerei-brote.jpg)
 
 ... hier gibt’s sooo viel Leckeres!
