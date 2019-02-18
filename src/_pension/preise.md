@@ -5,7 +5,7 @@ title: "Preise"
 
 ## Zimmer
 
-Unter [Zimmer](zimmer.html) können sie die verschiedenen Zimmer anschauen.
+Unter [Zimmer](zimmer) können sie die verschiedenen Zimmer anschauen.
 
 | Typ | Ausstattung                                                         | Größe           | Preis/Person |
 | --- | ------------------------------------------------------------------- | --------------- | ------------ |
@@ -30,4 +30,4 @@ Bei Kurzaufenthalten berechnen wir einen Preisaufschlag von:
 
 Der Einzelzimmer-Zuschlag beträgt 3,- €/Nacht.
 
-**Hinweis:** Die oben genannten Preise verstehen sich zzgl. Kurtaxe 2,60 €/Person (näheres hierzu siehe unter [Info](info.html))
+**Hinweis:** Die oben genannten Preise verstehen sich zzgl. Kurtaxe 2,60 €/Person (näheres hierzu siehe unter [Info](info))

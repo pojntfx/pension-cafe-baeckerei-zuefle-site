@@ -1,0 +1,81 @@
+backend:
+  name: "git-gateway"
+media_folder: "assets/media"
+public_folder: "/assets/media"
+collections:
+  - name: "overviews"
+    label: "Übersichten"
+    folder: "src/_overviews"
+    create: false
+    slug: ".md"
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - "default"
+          - "home"
+      - label: "Titel"
+        name: "title"
+        widget: "string"
+      - label: "Textkörper"
+        name: "body"
+        widget: "markdown"
+        required: false
+  - name: "pension"
+    label: "Pension"
+    folder: "src/_pension"
+    create: false
+    slug: ".md"
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - "default"
+          - "home"
+      - label: "Titel"
+        name: "title"
+        widget: "string"
+      - label: "Textkörper"
+        name: "body"
+        widget: "markdown"
+        required: false
+  - name: "cafe"
+    label: "Café"
+    folder: "src/_cafe"
+    create: false
+    slug: ".md"
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - "default"
+          - "home"
+      - label: "Titel"
+        name: "title"
+        widget: "string"
+      - label: "Textkörper"
+        name: "body"
+        widget: "markdown"
+        required: false
+  - name: "freizeit"
+    label: "Freizeit"
+    folder: "src/_freizeit"
+    create: false
+    slug: ".md"
+    fields:
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - "default"
+          - "home"
+      - label: "Titel"
+        name: "title"
+        widget: "string"
+      - label: "Textkörper"
+        name: "body"
+        widget: "markdown"
+        required: false

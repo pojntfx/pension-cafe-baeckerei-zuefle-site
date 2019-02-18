@@ -1,0 +1,68 @@
+# Meta
+title: Cafe Züfle Baiersbronn-Mitteltal
+author: Felix Pojtinger
+email: felix@pojtinger.com
+lang: de
+description: Static site for Cafe Züfle in Baiersbronn-Mitteltal.
+keywords:
+  - Cafe Züfle
+
+# Contact
+contact:
+  phone: 07442 / 81320
+  email: cafe-m.zuefle@t-online.de
+  website: cafe-zuefle.de
+
+# Location
+location:
+  address: Ruhesteinstr. 304-307, 72270 Baiersbronn-Mitteltal
+  iframe_url: https://www.google.com/maps/embed/v1/place?q=Ruhesteinstr.+304-307,+72270+Baiersbronn-Mitteltal&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8
+
+# Config
+baseurl: ""
+url: https://cafe-zuefle.de
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "/"
+    values:
+      layout: home
+collections:
+  overviews:
+    label: Übersichten
+    directory: _overviews
+    output: true
+    permalink: /:path
+  pension:
+    label: Pension
+    directory: _pension
+    output: true
+    permalink: /pension/:path
+  cafe:
+    label: Café
+    directory: _cafe
+    output: true
+    permalink: /cafe/:path
+  freizeit:
+    label: Freizeit
+    directory: _freizeit
+    output: true
+    permalink: /freizeit/:path
+
+# Plugins
+plugins:
+  - jekyll-admin
+  - jekyll-sitemap
+  - jekyll-last-modified-at
+  - jekyll-assets
+  - jekyll-gzip
+
+# Decentralized Admin Interface
+jekyll_admin:
+  hidden_links:
+    - pages # We use our own collection
+    - posts # We don't have any posts currently
+    - datafiles # We don't have any data files yet
