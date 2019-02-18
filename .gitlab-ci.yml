@@ -1,7 +1,7 @@
 image: bitnami/ruby:2.4-debian-9
 
 before_script:
-  - mv -r -f assets/ src/assets/
+  - mv -f assets/ src/assets/
   - bundle install
 
 pages:
