@@ -1,6 +1,6 @@
-# Cafe Züfle Site
+# Pension Café Bäckerei Züfle Site
 
-Static site for Cafe Züfle in Baiersbronn-Mitteltal.
+Site for Pension Café Bäckerei Züfle in Baiersbronn-Mitteltal.
 
 ## Features
 
@@ -20,13 +20,13 @@ skaffold dev
 
 ## Licenses
 
-These licences apply, unless specified otherwise, to all packages of the Cafe Züfle Site.
+These licences apply, unless specified otherwise, to all packages of the Pension Café Bäckerei Züfle Site.
 
 ### Code
 
 [![AGPL-3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](./LICENSE.md)
 
-Cafe Züfle Site (C) 2014-2019 Felicitas Pojtinger
+Pension Café Bäckerei Züfle Site (C) 2014-2019 Felicitas Pojtinger
 
 SPDX-License-Identifier: AGPL-3.0
 
@@ -40,7 +40,7 @@ You should have received a copy of the GNU/Linux Affero General Public License a
 
 [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](./LICENSE_MEDIA.md)
 
-Cafe Züfle Site (C) 2014-2019 Felicitas Pojtinger
+Pension Café Bäckerei Züfle Site (C) 2014-2019 Felicitas Pojtinger
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
