@@ -4,12 +4,12 @@ Site for Pension Café Bäckerei Züfle in Baiersbronn-Mitteltal.
 
 ## Features
 
-- [Home](./_pages/index.md): An overview page
-- [Pension](./_pages/pension.md): Place to rest
-- [Café](./_pages/cafe.md): Place to chill
-- [Bäckerei](./_pages/baeckerei.md): Place to eat
-- [Freizeit](./_pages/freizeit.md): Other places to visit in the region
-- [Netlify CMS](./admin/config.yml): An online interface to edit the content
+- [Home](./src/_overviews/index.md): An overview page
+- [Pension](./src/_overviews/pension.md): Place to rest
+- [Café](./src/_overviews/cafe.md): Place to chill
+- [Bäckerei](./src/_overviews/baeckerei.md): Place to eat
+- [Freizeit](./src/_overviews/freizeit.md): Other places to visit in the region
+- [Netlify CMS](./src/admin/config.yml): An online interface to edit the content
 
 ## Usage
 
