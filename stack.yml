@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: cafe-zuefle-website
+  name: pension-cafe-baeckerei-zuefle-site
 spec:
   selector:
     matchLabels:
-      app: cafe-zuefle-website
+      app: pension-cafe-baeckerei-zuefle-site
   template:
     metadata:
       labels:
-        app: cafe-zuefle-website
+        app: pension-cafe-baeckerei-zuefle-site
     spec:
       containers:
-        - name: cafe-zuefle-website
-          image: registry.gitlab.com/pojntfx/cafe-zuefle-website
+        - name: pension-cafe-baeckerei-zuefle-site
+          image: registry.gitlab.com/pojntfx/pension-cafe-baeckerei-zuefle-site
           resources:
             limits:
               memory: 400Mi
@@ -24,11 +24,11 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: cafe-zuefle-website
+  name: pension-cafe-baeckerei-zuefle-site
 spec:
   type: NodePort
   selector:
-    app: cafe-zuefle-website
+    app: pension-cafe-baeckerei-zuefle-site
   ports:
     - port: 4000
       nodePort: 30300
