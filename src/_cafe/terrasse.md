@@ -8,7 +8,9 @@ Ein besonderer Anziehungspunkt ist unsere große Gartenterrasse inmitten herrlic
 
 65 Gäste finden auf unserer idyllischen Terrasse hinter dem Haus einen gemütlichen Platz im Grünen ... das macht doch jetzt schon Lust auf einen leckeren Eisbecher oder Stück frische Erdbeer-Torte - oder!?
 {% include layout/center.html %}
+
 ![Terrasse Tische](/assets/media/terrasse-tische.jpg)
+
 {% include layout/right_side.html %}
 
 {% include gallery/top.html %}
