@@ -8,7 +8,9 @@ Es gibt vielfältige Ausflugsziele rund um die Gemeinde Baiersbronn die ihren Be
 ## Ca. 15 Minuten
 
 {% include layout/left_side.html inverted="true" %}
+
 ![Ausflugsziel 1](/assets/media/ausflugsziele-1.jpg)
+
 {% include layout/center.html inverted="true" %}
 
 - **[Freudenstadt](https://www.freudenstadt.de/de/Freudenstadt-Portal):** Größter Marktplatz Deutschlands mit seinen Wasserspielen, Glasbläserei, Panoramabad
@@ -28,12 +30,15 @@ Es gibt vielfältige Ausflugsziele rund um die Gemeinde Baiersbronn die ihren Be
 - **[Bad Wildbad](https://www.bad-wildbad.de/):** Palais Thermal
 
 {% include layout/center.html %}
+
 ![Ausflugsziel 2](/assets/media/ausflugsziele-2.jpg)
+
 {% include layout/right_side.html %}
 
 ## Ca. 45 Minuten
 
 {% include layout/left_side.html inverted="true"%}
+
 ![Ausflugsziel 3](/assets/media/ausflugsziele-3.jpg)
 
 {% include layout/center.html inverted="true"%}
@@ -61,7 +66,9 @@ Es gibt vielfältige Ausflugsziele rund um die Gemeinde Baiersbronn die ihren Be
 ## Ca 1 Stunde und 15 Minuten
 
 {% include layout/left_side.html inverted="true" %}
+
 ![Ausflugsziel 5](/assets/media/ausflugsziele-5.jpg)
+
 {% include layout/center.html inverted="true" %}
 
 - **[Furtwangen](https://www.furtwangen.de/,Lde/startseite):** Deutsches Uhrenmuseum

@@ -10,7 +10,9 @@ In unmittelbarer Nähe befinden sich der Kurgarten, der Murgwanderweg, die Weiß
 
 Die große Caféstube bietet Platz für 28 Gäste.
 {% include layout/center.html %}
+
 ![Banner](/assets/media/cafe-rauemlichkeiten-banner.jpg)
+
 {% include layout/right_side.html %}
 
 ## Sitzplätze
@@ -18,6 +20,7 @@ Die große Caféstube bietet Platz für 28 Gäste.
 {% include layout/left_side.html inverted="true" %}
 
 ![Sitzplaetze](/assets/media/sitzplaetze.jpg)
+
 {% include layout/center.html inverted="true" %}
 Gerne verwöhnen wir Sie in unseren behaglichen Café-Räumen mit Leckereien aus hauseigener Backstube.
 
