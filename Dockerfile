@@ -5,3 +5,4 @@ RUN bundle install
 COPY assets assets
 COPY src .
 CMD ["bundle", "exec", "jekyll", "serve"]
+ 
