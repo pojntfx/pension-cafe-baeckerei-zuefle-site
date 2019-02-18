@@ -1,0 +1,9 @@
+apiVersion: skaffold/v1beta5
+kind: Config
+build:
+  artifacts:
+    - image: registry.gitlab.com/pojntfx/cafe-zuefle-website
+deploy:
+  kubectl:
+    manifests:
+      - stack.yml

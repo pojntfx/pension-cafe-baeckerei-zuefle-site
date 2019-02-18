@@ -1,68 +1,32 @@
-# Cafe Zuefle Site
+# Cafe Züfle Site
 
-Static site for Cafe Zuefle in Baiersbronn-Mitteltal.
+Static site for Cafe Züfle in Baiersbronn-Mitteltal.
+
+## Features
+
+- [Home](./_pages/index.md): An overview page
+- [Pension](./_pages/pension.md): Place to rest
+- [Café](./_pages/cafe.md): Place to chill
+- [Bäckerei](./_pages/baeckerei.md): Place to eat
+- [Freizeit](./_pages/freizeit.md): Other places to visit in the region
+- [Netlify CMS](./admin/config.yml): An online interface to edit the content
 
 ## Usage
 
-[![Demo Site](https://img.shields.io/badge/Demo-cafe--zuefle.de-black.svg)](https://cafe-zuefle.de)
-[![Developed on GNU/Linux](https://img.shields.io/badge/developed%20on-GNU/Linux%20and%20BSD-D2AA30.svg?logo=linux)](https://getfedora.org/)
-
 ```bash
-# Install dependencies
-$ dnf group install "C Development Tools and Libraries"
-$ dnf install nodejs
-$ npm install -g serve
-$ gpg2 --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
-$ curl -sSL https://get.rvm.io | bash -s stable
-$ source /home/${USER}/.rvm/scripts/rvm
-$ rvm install 2.4
-$ rvm 2.4
-$ gem install bundler
-$ bundle install
-```
-
-```bash
-# Start development version
-$ bundle exec jekyll serve
-```
-
-## Deployment
-
-[![Built for GNU/Linux](https://img.shields.io/badge/built%20for-GNU/Linux%20and%20BSD-D2AA30.svg?logo=linux)](https://getfedora.org/)
-[![Built for Docker](https://img.shields.io/badge/built%20for-Docker-34A0EF.svg?logo=docker)](https://www.docker.com/)
-[![Built for Kubernetes](https://img.shields.io/badge/built%20for-Kubernetes-326DE6.svg?logo=cloud)](https://kubernetes.io/)
-
-```bash
-# Build production version
-$ bundle exec jekyll build -d public
-# Start production version
-$ serve public/
-```
-
-## Contributing
-
-```bash
-# Stage your changes
-$ git add .
-# Commit your changes using `Conventional Commits`
-$ git commit -m "feat: Add new feature"
-# Push the changes
-$ git push
+# Run in Kubernetes
+skaffold dev
 ```
 
 ## Licenses
 
-[![Code License AGPL-3.0](https://img.shields.io/badge/Code%20License-AGPL--3.0-brightgreen.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![Media License CC-BY-SA-4.0](https://img.shields.io/badge/Media%20License-CC--BY--SA--4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-These licenses do, if not otherwise specified, apply to all packages in this repository.
+These licences apply, unless specified otherwise, to all packages of the Cafe Züfle Site.
 
 ### Code
 
-[![AGPL-3.0 License](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl.html)
+[![AGPL-3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](./LICENSE.md)
 
-Cafe Zuefle Site
-Copyright (C) 2018 Felix Pojtinger
+Cafe Züfle Site (C) 2014-2019 Felix Pojtinger
 
 SPDX-License-Identifier: AGPL-3.0
 
@@ -74,10 +38,9 @@ You should have received a copy of the GNU/Linux Affero General Public License a
 
 ### Media
 
-[![CC-BY-SA-4.0 License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](./LICENSE_MEDIA.md)
 
-Cafe Zuefle Site
-Copyright (C) 2018 Felix Pojtinger
+Cafe Züfle Site (C) 2014-2019 Felix Pojtinger
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 

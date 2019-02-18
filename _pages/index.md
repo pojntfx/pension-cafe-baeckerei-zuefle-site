@@ -1,6 +1,6 @@
 ---
-title: "Home"
-layout: "home"
+title: Home
+layout: home
 ---
 
 {% include carousel/top.html %}
