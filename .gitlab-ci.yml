@@ -1,33 +1,15 @@
-# This file is a template, and might need editing before it works on your project.
-# Template project: https://gitlab.com/pages/jekyll
-# Docs: https://docs.gitlab.com/ce/pages/
-image: ruby:2.3
-
-variables:
-  JEKYLL_ENV: production
+image: bitnami/ruby:2.4-debian-9
 
 before_script:
-  - export LC_ALL="C.UTF-8"
-  - export LANG="en_US.UTF-8"
-  - export LANGUAGE="en_US.UTF-8"
-  - bundle install --full-index
-
-test:
-  stage: test
-  script:
-    - bundle exec jekyll build -d test
-  artifacts:
-    paths:
-      - test
-  except:
-    - master
+  - mv -r -f assets/ src/assets/
+  - bundle install
 
 pages:
   stage: deploy
   script:
-    - bundle exec jekyll build -d public
+    - bundle exec jekyll build --source src
   artifacts:
     paths:
-      - public
+      - _site
   only:
     - master
