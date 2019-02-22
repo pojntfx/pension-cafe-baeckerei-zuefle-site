@@ -60,8 +60,6 @@ Auch das sollten Sie probieren:
 
 {% include layout/right_side.html %}
 
-Im Sommer ist es im Mitteltal haben wir unser großes Gartencafé geöffnet.
-
 ## Backwaren
 
 {% include layout/left_side.html %}
