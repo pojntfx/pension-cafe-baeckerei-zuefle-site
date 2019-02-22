@@ -20,7 +20,7 @@ Zu unseren Spezialitäten zählt unter anderem die original Schwarzwälder Kirsc
 
 | Tag                | Uhrzeit                                     |
 | ------------------ | ------------------------------------------- |
-| Werktags           | 6.17 - 12.00 Uhr sowie 13.30 Uhr bis 18 Uhr |
+| Werktags           | 6.15 - 12.00 Uhr sowie 13.30 Uhr bis 18 Uhr |
 | Mittwoch           | 6.15 - 12.15 Uhr (nachmittags geschlossen)  |
 | Samstag            | 6.15 - 12.15 Uhr (nachmittags geschlossen)  |
 | Sonn- und Feiertag | Kuchenverkauf 13.30 Uhr - 18.00 Uhr         |
@@ -59,6 +59,8 @@ Auch das sollten Sie probieren:
 * ... und vieles mehr!
 
 {% include layout/right_side.html %}
+
+Im Sommer ist es im Mitteltal haben wir unser großes Gartencafé geöffnet.
 
 ## Backwaren
 
