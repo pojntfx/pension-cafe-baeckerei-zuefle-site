@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Öffnungszeiten"
+title: Öffnungszeiten Café
 ---
 
 | Tag      | Uhrzeit                                     |
