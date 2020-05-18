@@ -9,16 +9,16 @@ Unter [Zimmer](zimmer) können sie die verschiedenen Zimmer anschauen.
 | Typ | Ausstattung                                                         | Größe           | Preis/Person |
 | --- | ------------------------------------------------------------------- | --------------- | ------------ |
 | 1   | Zimmer mit Dusche, WC, Südbalkon, TV                                | 17m<sup>2</sup> | 37,- €       |
-| 2   | Zimmer mit Dusche, WC, Südbalkon, TV                                | 24m<sup>2</sup> | 39,- €       |
-| 3   | Großzügiges Zimmer mit Dusche, WC, TV (ohne Balkon)                 | 27m<sup>2</sup> | 36,- €       |
-| 4   | Appartement mit Wohnzimmer, Schlafzimmer, Dusche, WC, Südbalkon, TV | 27m<sup>2</sup> | 42,- €       |
+| 2   | Zimmer mit Dusche, WC, Südbalkon, TV                                | 24m<sup>2</sup> | 40,- €       |
+| 3   | Großzügiges Zimmer mit Dusche, WC, TV (ohne Balkon)                 | 27m<sup>2</sup> | 37,- €       |
+| 4   | Appartement mit Wohnzimmer, Schlafzimmer, Dusche, WC, Südbalkon, TV | 27m<sup>2</sup> | 43,- €       |
 
 ## Zusätze
 
 | Typ    | Preis/Tag |
 | ------ | --------- |
-| Garage | 3,50 €    |
-| Hund   | 6,- €     |
+| Garage | 4,- €    
+| Hund   | 7,- €     |
 
 ## Sonstiges
 
